@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" >
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Practical Natural Language Processing</dc:title>
+<dc:creator opf:file-as="Harshit Surana" opf:role="aut">Harshit Surana</dc:creator>
+<dc:creator opf:file-as="Anuj Gupta" opf:role="aut">Anuj Gupta</dc:creator>
+<dc:creator opf:file-as="Bodhisattwa Majumder" opf:role="aut">Bodhisattwa Majumder</dc:creator>
+<dc:creator opf:file-as="Sowmya Vajjala" opf:role="aut">Sowmya Vajjala</dc:creator>
+<dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;Many books and courses tackle natural language processing (NLP) problems with toy use cases and well-defined datasets. But if you want to build, iterate, and scale NLP systems in a business setting and tailor them for particular industry verticals, this is your guide. Software engineers and data scientists will learn how to navigate the maze of options available at each step of the journey.&lt;/p&gt;&lt;p&gt;Through the course of the book, authors Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, and Harshit Surana will guide you through the process of building real-world NLP solutions embedded in larger product setups. You’ll learn how to adapt your solutions for different industry verticals such as healthcare, social media, and retail.&lt;/p&gt;&lt;p&gt;With this book, you’ll:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand the wide spectrum of problem statements, tasks, and solution approaches within NLP&lt;/li&gt;&lt;li&gt;Implement and evaluate different NLP applications using machine learning and deep learning methods&lt;/li&gt;&lt;li&gt;Fine-tune your NLP solution based on your business problem and industry vertical&lt;/li&gt;&lt;li&gt;Evaluate various algorithms and approaches for NLP product tasks, datasets, and stages&lt;/li&gt;&lt;li&gt;Produce software solutions following best practices around release, deployment, and DevOps for NLP systems&lt;/li&gt;&lt;li&gt;Understand best practices, opportunities, and the roadmap for NLP from a business and product leader’s perspective&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+<dc:publisher>O&#x27;Reilly Media, Inc.</dc:publisher>
+<dc:rights>Copyright © 2020 Anuj Gupta, Bodhisattwa Prasad Majumder, Sowmya Vajjala, and Harshit Surana</dc:rights>
+<dc:language>en-US</dc:language>
+<dc:date>2020-06-23</dc:date>
+<dc:identifier id="bookid">9781492054054</dc:identifier>
+<meta name="cover" content="Images/cover.png"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+<item id="toc01" href="toc01.xhtml" media-type="application/xhtml+xml" />
+<item id="dedication01" href="dedication01.xhtml" media-type="application/xhtml+xml" />
+<item id="titlepage01" href="titlepage01.xhtml" media-type="application/xhtml+xml" />
+<item id="copyright-page01" href="copyright-page01.xhtml" media-type="application/xhtml+xml" />
+<item id="dedication02" href="dedication02.xhtml" media-type="application/xhtml+xml" />
+<item id="foreword01" href="foreword01.xhtml" media-type="application/xhtml+xml" />
+<item id="preface01" href="preface01.xhtml" media-type="application/xhtml+xml" />
+<item id="part01" href="part01.xhtml" media-type="application/xhtml+xml" />
+<item id="ch01" href="ch01.xhtml" media-type="application/xhtml+xml" />
+<item id="ch02" href="ch02.xhtml" media-type="application/xhtml+xml" />
+<item id="ch03" href="ch03.xhtml" media-type="application/xhtml+xml" />
+<item id="part02" href="part02.xhtml" media-type="application/xhtml+xml" />
+<item id="ch04" href="ch04.xhtml" media-type="application/xhtml+xml" />
+<item id="ch05" href="ch05.xhtml" media-type="application/xhtml+xml" />
+<item id="ch06" href="ch06.xhtml" media-type="application/xhtml+xml" />
+<item id="ch07" href="ch07.xhtml" media-type="application/xhtml+xml" />
+<item id="part03" href="part03.xhtml" media-type="application/xhtml+xml" />
+<item id="ch08" href="ch08.xhtml" media-type="application/xhtml+xml" />
+<item id="ch09" href="ch09.xhtml" media-type="application/xhtml+xml" />
+<item id="ch10" href="ch10.xhtml" media-type="application/xhtml+xml" />
+<item id="part04" href="part04.xhtml" media-type="application/xhtml+xml" />
+<item id="ch11" href="ch11.xhtml" media-type="application/xhtml+xml" />
+<item id="ix01" href="ix01.xhtml" media-type="application/xhtml+xml" />
+<item id="colophon01" href="colophon01.xhtml" media-type="application/xhtml+xml" />
+<item id="colophon02" href="colophon02.xhtml" media-type="application/xhtml+xml" />
+<item id="img_pnlp_0809" href="Images/pnlp_0809.png" media-type="image/png" />
+<item id="img_pnlp_0622" href="Images/pnlp_0622.png" media-type="image/png" />
+<item id="img_pnlp_0612" href="Images/pnlp_0612.png" media-type="image/png" />
+<item id="img_pnlp_0814" href="Images/pnlp_0814.png" media-type="image/png" />
+<item id="img_1f525_fire" href="Images/1f525_fire.png" media-type="image/png" />
+<item id="img_pnlp_0905" href="Images/pnlp_0905.png" media-type="image/png" />
+<item id="img_pnlp_0304" href="Images/pnlp_0304.png" media-type="image/png" />
+<item id="img_pnlp_1105" href="Images/pnlp_1105.png" media-type="image/png" />
+<item id="img_pnlp_0906" href="Images/pnlp_0906.png" media-type="image/png" />
+<item id="img_1f6a3-1f3fb_row" href="Images/1f6a3-1f3fb_row.png" media-type="image/png" />
+<item id="img_pnlp_0113" href="Images/pnlp_0113.png" media-type="image/png" />
+<item id="img_pnlp_0515" href="Images/pnlp_0515.png" media-type="image/png" />
+<item id="img_pnlp_0902" href="Images/pnlp_0902.png" media-type="image/png" />
+<item id="img_pnlp_0912" href="Images/pnlp_0912.png" media-type="image/png" />
+<item id="img_pnlp_1004" href="Images/pnlp_1004.png" media-type="image/png" />
+<item id="img_pnlp_0317" href="Images/pnlp_0317.png" media-type="image/png" />
+<item id="img_pnlp_0510" href="Images/pnlp_0510.png" media-type="image/png" />
+<item id="img_pnlp_1005" href="Images/pnlp_1005.png" media-type="image/png" />
+<item id="img_pnlp_0605" href="Images/pnlp_0605.png" media-type="image/png" />
+<item id="img_pnlp_0201" href="Images/pnlp_0201.png" media-type="image/png" />
+<item id="img_pnlp_0215" href="Images/pnlp_0215.png" media-type="image/png" />
+<item id="img_pnlp_0910" href="Images/pnlp_0910.png" media-type="image/png" />
+<item id="img_pnlp_0104" href="Images/pnlp_0104.png" media-type="image/png" />
+<item id="img_pnlp_0402" href="Images/pnlp_0402.png" media-type="image/png" />
+<item id="img_pnlp_0907" href="Images/pnlp_0907.png" media-type="image/png" />
+<item id="img_pnlp_0207" href="Images/pnlp_0207.png" media-type="image/png" />
+<item id="img_pnlp_0315" href="Images/pnlp_0315.png" media-type="image/png" />
+<item id="img_pnlp_0102" href="Images/pnlp_0102.png" media-type="image/png" />
+<item id="img_pnlp_0709" href="Images/pnlp_0709.png" media-type="image/png" />
+<item id="img_pnlp_1007" href="Images/pnlp_1007.png" media-type="image/png" />
+<item id="img_pnlp_0202" href="Images/pnlp_0202.png" media-type="image/png" />
+<item id="img_pnlp_0813" href="Images/pnlp_0813.png" media-type="image/png" />
+<item id="img_pnlp_0707" href="Images/pnlp_0707.png" media-type="image/png" />
+<item id="img_pnlp_0903" href="Images/pnlp_0903.png" media-type="image/png" />
+<item id="img_pnlp_0214" href="Images/pnlp_0214.png" media-type="image/png" />
+<item id="img_1f355_pizza" href="Images/1f355_pizza.png" media-type="image/png" />
+<item id="img_pnlp_0908" href="Images/pnlp_0908.png" media-type="image/png" />
+<item id="img_pnlp_1110" href="Images/pnlp_1110.png" media-type="image/png" />
+<item id="img_1f385-1f3fd_santa" href="Images/1f385-1f3fd_santa.png" media-type="image/png" />
+<item id="img_pnlp_0609" href="Images/pnlp_0609.png" media-type="image/png" />
+<item id="img_pnlp_0620" href="Images/pnlp_0620.png" media-type="image/png" />
+<item id="img_pnlp_1020" href="Images/pnlp_1020.png" media-type="image/png" />
+<item id="img_pnlp_0613" href="Images/pnlp_0613.png" media-type="image/png" />
+<item id="img_pnlp_1019" href="Images/pnlp_1019.png" media-type="image/png" />
+<item id="img_pnlp_0206" href="Images/pnlp_0206.png" media-type="image/png" />
+<item id="img_pnlp_0812" href="Images/pnlp_0812.png" media-type="image/png" />
+<item id="img_pnlp_0918" href="Images/pnlp_0918.png" media-type="image/png" />
+<item id="img_pnlp_0106" href="Images/pnlp_0106.png" media-type="image/png" />
+<item id="img_pnlp_0617" href="Images/pnlp_0617.png" media-type="image/png" />
+<item id="img_pnlp_0309" href="Images/pnlp_0309.png" media-type="image/png" />
+<item id="img_pnlp_1001" href="Images/pnlp_1001.png" media-type="image/png" />
+<item id="img_pnlp_0119" href="Images/pnlp_0119.png" media-type="image/png" />
+<item id="img_pnlp_0308" href="Images/pnlp_0308.png" media-type="image/png" />
+<item id="img_pnlp_0409" href="Images/pnlp_0409.png" media-type="image/png" />
+<item id="img_pnlp_0909" href="Images/pnlp_0909.png" media-type="image/png" />
+<item id="img_pnlp_0810" href="Images/pnlp_0810.png" media-type="image/png" />
+<item id="img_pnlp_0211" href="Images/pnlp_0211.png" media-type="image/png" />
+<item id="img_pnlp_0625" href="Images/pnlp_0625.png" media-type="image/png" />
+<item id="img_pnlp_0319" href="Images/pnlp_0319.png" media-type="image/png" />
+<item id="img_pnlp_0806" href="Images/pnlp_0806.png" media-type="image/png" />
+<item id="img_pnlp_1008" href="Images/pnlp_1008.png" media-type="image/png" />
+<item id="img_pnlp_0507" href="Images/pnlp_0507.png" media-type="image/png" />
+<item id="img_1f695_taxi" href="Images/1f695_taxi.png" media-type="image/png" />
+<item id="img_1f1f2-1f1fd_mexico" href="Images/1f1f2-1f1fd_mexico.png" media-type="image/png" />
+<item id="img_pnlp_0701" href="Images/pnlp_0701.png" media-type="image/png" />
+<item id="img_pnlp_0512" href="Images/pnlp_0512.png" media-type="image/png" />
+<item id="img_pnlp_1009" href="Images/pnlp_1009.png" media-type="image/png" />
+<item id="img_pnlp_0401" href="Images/pnlp_0401.png" media-type="image/png" />
+<item id="img_pnlp_0411" href="Images/pnlp_0411.png" media-type="image/png" />
+<item id="img_pnlp_0311" href="Images/pnlp_0311.png" media-type="image/png" />
+<item id="img_pnlp_0804" href="Images/pnlp_0804.png" media-type="image/png" />
+<item id="img_pnlp_0610" href="Images/pnlp_0610.png" media-type="image/png" />
+<item id="img_pnlp_0114" href="Images/pnlp_0114.png" media-type="image/png" />
+<item id="img_pnlp_0208" href="Images/pnlp_0208.png" media-type="image/png" />
+<item id="img_pnlp_1018" href="Images/pnlp_1018.png" media-type="image/png" />
+<item id="img_1f1f3-1f1ee_nicaragua" href="Images/1f1f3-1f1ee_nicaragua.png" media-type="image/png" />
+<item id="img_pnlp_0312" href="Images/pnlp_0312.png" media-type="image/png" />
+<item id="img_pnlp_0505" href="Images/pnlp_0505.png" media-type="image/png" />
+<item id="img_pnlp_1011" href="Images/pnlp_1011.png" media-type="image/png" />
+<item id="img_pnlp_0410" href="Images/pnlp_0410.png" media-type="image/png" />
+<item id="img_pnlp_0616" href="Images/pnlp_0616.png" media-type="image/png" />
+<item id="img_pnlp_1003" href="Images/pnlp_1003.png" media-type="image/png" />
+<item id="img_pnlp_0513" href="Images/pnlp_0513.png" media-type="image/png" />
+<item id="img_pnlp_0801" href="Images/pnlp_0801.png" media-type="image/png" />
+<item id="img_pnlp_0914" href="Images/pnlp_0914.png" media-type="image/png" />
+<item id="img_pnlp_1015" href="Images/pnlp_1015.png" media-type="image/png" />
+<item id="img_pnlp_0702" href="Images/pnlp_0702.png" media-type="image/png" />
+<item id="img_pnlp_0405" href="Images/pnlp_0405.png" media-type="image/png" />
+<item id="img_pnlp_0407" href="Images/pnlp_0407.png" media-type="image/png" />
+<item id="img_pnlp_0913" href="Images/pnlp_0913.png" media-type="image/png" />
+<item id="img_pnlp_1012" href="Images/pnlp_1012.png" media-type="image/png" />
+<item id="img_pnlp_0627" href="Images/pnlp_0627.png" media-type="image/png" />
+<item id="img_pnlp_0516" href="Images/pnlp_0516.png" media-type="image/png" />
+<item id="img_pnlp_0519" href="Images/pnlp_0519.png" media-type="image/png" />
+<item id="img_pnlp_0314" href="Images/pnlp_0314.png" media-type="image/png" />
+<item id="img_pnlp_0504" href="Images/pnlp_0504.png" media-type="image/png" />
+<item id="img_pnlp_0601" href="Images/pnlp_0601.png" media-type="image/png" />
+<item id="img_pnlp_1010" href="Images/pnlp_1010.png" media-type="image/png" />
+<item id="img_pnlp_1107" href="Images/pnlp_1107.png" media-type="image/png" />
+<item id="img_pnlp_0108" href="Images/pnlp_0108.png" media-type="image/png" />
+<item id="img_pnlp_0209" href="Images/pnlp_0209.png" media-type="image/png" />
+<item id="img_pnlp_0518" href="Images/pnlp_0518.png" media-type="image/png" />
+<item id="img_pnlp_1108" href="Images/pnlp_1108.png" media-type="image/png" />
+<item id="img_" href="Images/#list_of_the_topics_covered_in" media-type="image/#list_of_the_topics_covered_in" />
+<item id="img_1f479_ogre" href="Images/1f479_ogre.png" media-type="image/png" />
+<item id="img_pnlp_1106" href="Images/pnlp_1106.png" media-type="image/png" />
+<item id="img_pnlp_0604" href="Images/pnlp_0604.png" media-type="image/png" />
+<item id="img_pnlp_0406" href="Images/pnlp_0406.png" media-type="image/png" />
+<item id="img_pnlp_0901" href="Images/pnlp_0901.png" media-type="image/png" />
+<item id="img_pnlp_0509" href="Images/pnlp_0509.png" media-type="image/png" />
+<item id="img_pnlp_0205" href="Images/pnlp_0205.png" media-type="image/png" />
+<item id="img_pnlp_0116" href="Images/pnlp_0116.png" media-type="image/png" />
+<item id="img_pnlp_0301" href="Images/pnlp_0301.png" media-type="image/png" />
+<item id="img_pnlp_0626" href="Images/pnlp_0626.png" media-type="image/png" />
+<item id="img_pnlp_0708" href="Images/pnlp_0708.png" media-type="image/png" />
+<item id="img_pnlp_0915" href="Images/pnlp_0915.png" media-type="image/png" />
+<item id="img_pnlp_0306" href="Images/pnlp_0306.png" media-type="image/png" />
+<item id="img_pnlp_0305" href="Images/pnlp_0305.png" media-type="image/png" />
+<item id="img_pnlp_0628" href="Images/pnlp_0628.png" media-type="image/png" />
+<item id="img_pnlp_0316" href="Images/pnlp_0316.png" media-type="image/png" />
+<item id="img_pnlp_0603" href="Images/pnlp_0603.png" media-type="image/png" />
+<item id="img_pnlp_0101" href="Images/pnlp_0101.png" media-type="image/png" />
+<item id="img_pnlp_0503" href="Images/pnlp_0503.png" media-type="image/png" />
+<item id="img_pnlp_0506" href="Images/pnlp_0506.png" media-type="image/png" />
+<item id="img_pnlp_0614" href="Images/pnlp_0614.png" media-type="image/png" />
+<item id="img_pnlp_0807" href="Images/pnlp_0807.png" media-type="image/png" />
+<item id="img_pnlp_1013" href="Images/pnlp_1013.png" media-type="image/png" />
+<item id="img_pnlp_0502" href="Images/pnlp_0502.png" media-type="image/png" />
+<item id="img_pnlp_0111" href="Images/pnlp_0111.png" media-type="image/png" />
+<item id="img_pnlp_0704" href="Images/pnlp_0704.png" media-type="image/png" />
+<item id="img_pnlp_0103" href="Images/pnlp_0103.png" media-type="image/png" />
+<item id="img_pnlp_0107" href="Images/pnlp_0107.png" media-type="image/png" />
+<item id="img_pnlp_0916" href="Images/pnlp_0916.png" media-type="image/png" />
+<item id="img_pnlp_0112" href="Images/pnlp_0112.png" media-type="image/png" />
+<item id="img_pnlp_0117" href="Images/pnlp_0117.png" media-type="image/png" />
+<item id="img_pnlp_0920" href="Images/pnlp_0920.png" media-type="image/png" />
+<item id="img_pnlp_0919" href="Images/pnlp_0919.png" media-type="image/png" />
+<item id="img_pnlp_0802" href="Images/pnlp_0802.png" media-type="image/png" />
+<item id="img_pnlp_0904" href="Images/pnlp_0904.png" media-type="image/png" />
+<item id="img_pnlp_1002" href="Images/pnlp_1002.png" media-type="image/png" />
+<item id="img_pnlp_0313" href="Images/pnlp_0313.png" media-type="image/png" />
+<item id="img_pnlp_1014" href="Images/pnlp_1014.png" media-type="image/png" />
+<item id="img_pnlp_0608" href="Images/pnlp_0608.png" media-type="image/png" />
+<item id="img_pnlp_0105" href="Images/pnlp_0105.png" media-type="image/png" />
+<item id="img_pnlp_0623" href="Images/pnlp_0623.png" media-type="image/png" />
+<item id="img_pnlp_0703" href="Images/pnlp_0703.png" media-type="image/png" />
+<item id="img_pnlp_0911" href="Images/pnlp_0911.png" media-type="image/png" />
+<item id="img_pnlp_0705" href="Images/pnlp_0705.png" media-type="image/png" />
+<item id="img_pnlp_1102" href="Images/pnlp_1102.png" media-type="image/png" />
+<item id="img_1f402_ox" href="Images/1f402_ox.png" media-type="image/png" />
+<item id="img_pnlp_1104" href="Images/pnlp_1104.png" media-type="image/png" />
+<item id="img_pnlp_1016" href="Images/pnlp_1016.png" media-type="image/png" />
+<item id="img_pnlp_0204" href="Images/pnlp_0204.png" media-type="image/png" />
+<item id="img_pnlp_0303" href="Images/pnlp_0303.png" media-type="image/png" />
+<item id="img_pnlp_0109" href="Images/pnlp_0109.png" media-type="image/png" />
+<item id="img_pnlp_0511" href="Images/pnlp_0511.png" media-type="image/png" />
+<item id="img_pnlp_0212" href="Images/pnlp_0212.png" media-type="image/png" />
+<item id="img_pnlp_0517" href="Images/pnlp_0517.png" media-type="image/png" />
+<item id="img_pnlp_0001" href="Images/pnlp_0001.png" media-type="image/png" />
+<item id="img_pnlp_0808" href="Images/pnlp_0808.png" media-type="image/png" />
+<item id="img_pnlp_0110" href="Images/pnlp_0110.png" media-type="image/png" />
+<item id="img_pnlp_0805" href="Images/pnlp_0805.png" media-type="image/png" />
+<item id="img_pnlp_0618" href="Images/pnlp_0618.png" media-type="image/png" />
+<item id="img_pnlp_0213" href="Images/pnlp_0213.png" media-type="image/png" />
+<item id="img_pnlp_1017" href="Images/pnlp_1017.png" media-type="image/png" />
+<item id="img_pnlp_0318" href="Images/pnlp_0318.png" media-type="image/png" />
+<item id="img_pnlp_0706" href="Images/pnlp_0706.png" media-type="image/png" />
+<item id="img_pnlp_0917" href="Images/pnlp_0917.png" media-type="image/png" />
+<item id="img_pnlp_1006" href="Images/pnlp_1006.png" media-type="image/png" />
+<item id="img_1f468-1f3fe-200d-2696-fe0f_man_judge" href="Images/1f468-1f3fe-200d-2696-fe0f_man_judge.png" media-type="image/png" />
+<item id="img_pnlp_0621" href="Images/pnlp_0621.png" media-type="image/png" />
+<item id="img_1f30b_volcano" href="Images/1f30b_volcano.png" media-type="image/png" />
+<item id="img_pnlp_1109" href="Images/pnlp_1109.png" media-type="image/png" />
+<item id="img_pnlp_0115" href="Images/pnlp_0115.png" media-type="image/png" />
+<item id="img_pnlp_0118" href="Images/pnlp_0118.png" media-type="image/png" />
+<item id="img_pnlp_0404" href="Images/pnlp_0404.png" media-type="image/png" />
+<item id="img_pnlp_0606" href="Images/pnlp_0606.png" media-type="image/png" />
+<item id="img_pnlp_0811" href="Images/pnlp_0811.png" media-type="image/png" />
+<item id="img_pnlp_0408" href="Images/pnlp_0408.png" media-type="image/png" />
+<item id="img_pnlp_0508" href="Images/pnlp_0508.png" media-type="image/png" />
+<item id="img_pnlp_1103" href="Images/pnlp_1103.png" media-type="image/png" />
+<item id="img_pnlp_0203" href="Images/pnlp_0203.png" media-type="image/png" />
+<item id="img_pnlp_0403" href="Images/pnlp_0403.png" media-type="image/png" />
+<item id="img_pnlp_0615" href="Images/pnlp_0615.png" media-type="image/png" />
+<item id="img_pnlp_0310" href="Images/pnlp_0310.png" media-type="image/png" />
+<item id="img_pnlp_0624" href="Images/pnlp_0624.png" media-type="image/png" />
+<item id="img_pnlp_0602" href="Images/pnlp_0602.png" media-type="image/png" />
+<item id="img_pnlp_0501" href="Images/pnlp_0501.png" media-type="image/png" />
+<item id="img_pnlp_0302" href="Images/pnlp_0302.png" media-type="image/png" />
+<item id="img_pnlp_1101" href="Images/pnlp_1101.png" media-type="image/png" />
+<item id="img_pnlp_1111" href="Images/pnlp_1111.png" media-type="image/png" />
+<item id="img_cover" href="Images/cover.png" media-type="image/png" />
+<item id="img_pnlp_0307" href="Images/pnlp_0307.png" media-type="image/png" />
+<item id="img_pnlp_0619" href="Images/pnlp_0619.png" media-type="image/png" />
+<item id="img_pnlp_0803" href="Images/pnlp_0803.png" media-type="image/png" />
+<item id="img_1f921_clown" href="Images/1f921_clown.png" media-type="image/png" />
+<item id="img_pnlp_0514" href="Images/pnlp_0514.png" media-type="image/png" />
+<item id="img_pnlp_0611" href="Images/pnlp_0611.png" media-type="image/png" />
+<item id="img_pnlp_0210" href="Images/pnlp_0210.png" media-type="image/png" />
+<item id="img_pnlp_0607" href="Images/pnlp_0607.png" media-type="image/png" />
+<item id="style_00" href="Styles/Style00.css" media-type="text/css" />
+<item id="style_01" href="Styles/Style01.css" media-type="text/css" />
+<item id="style_02" href="Styles/Style02.css" media-type="text/css" />
+<item id="style_03" href="Styles/Style03.css" media-type="text/css" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="toc01"/>
+<itemref idref="dedication01"/>
+<itemref idref="titlepage01"/>
+<itemref idref="copyright-page01"/>
+<itemref idref="dedication02"/>
+<itemref idref="foreword01"/>
+<itemref idref="preface01"/>
+<itemref idref="part01"/>
+<itemref idref="ch01"/>
+<itemref idref="ch02"/>
+<itemref idref="ch03"/>
+<itemref idref="part02"/>
+<itemref idref="ch04"/>
+<itemref idref="ch05"/>
+<itemref idref="ch06"/>
+<itemref idref="ch07"/>
+<itemref idref="part03"/>
+<itemref idref="ch08"/>
+<itemref idref="ch09"/>
+<itemref idref="ch10"/>
+<itemref idref="part04"/>
+<itemref idref="ch11"/>
+<itemref idref="ix01"/>
+<itemref idref="colophon01"/>
+<itemref idref="colophon02"/></spine>
+<guide><reference href="cover.xhtml" title="Cover" type="cover" /></guide>
+</package>

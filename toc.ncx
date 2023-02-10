@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="ID:ISBN:9781492054054" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>Practical Natural Language Processing</text></docTitle>
+<docAuthor><text>Harshit Surana, Anuj Gupta, Bodhisattwa Majumder, Sowmya Vajjala</text></docAuthor>
+<navMap><navPoint id="idm45969611374552" playOrder="1"><navLabel><text>Foreword</text></navLabel><content src="foreword01.xhtml#idm45969611374552"/></navPoint>
+<navPoint id="preface" playOrder="2"><navLabel><text>Preface</text></navLabel><content src="preface01.xhtml#preface"/><navPoint id="why_we_wrote_this_book" playOrder="3"><navLabel><text>Why We Wrote This Book</text></navLabel><content src="preface01.xhtml#why_we_wrote_this_book"/></navPoint>
+<navPoint id="the_philosophy" playOrder="4"><navLabel><text>The Philosophy</text></navLabel><content src="preface01.xhtml#the_philosophy"/></navPoint>
+<navPoint id="scope" playOrder="5"><navLabel><text>Scope</text></navLabel><content src="preface01.xhtml#scope"/></navPoint>
+<navPoint id="who_should_read_this_book" playOrder="6"><navLabel><text>Who Should Read This Book</text></navLabel><content src="preface01.xhtml#who_should_read_this_book"/></navPoint>
+<navPoint id="what_you_will_learn" playOrder="7"><navLabel><text>What You Will Learn</text></navLabel><content src="preface01.xhtml#what_you_will_learn"/></navPoint>
+<navPoint id="structure_of_the_book" playOrder="8"><navLabel><text>Structure of the Book</text></navLabel><content src="preface01.xhtml#structure_of_the_book"/></navPoint>
+<navPoint id="how_to_read" playOrder="9"><navLabel><text>How to Read This Book</text></navLabel><content src="preface01.xhtml#how_to_read"/><navPoint id="_conventions_used_in_this_book" playOrder="10"><navLabel><text>Conventions Used in This Book</text></navLabel><content src="preface01.xhtml#_conventions_used_in_this_book"/></navPoint>
+<navPoint id="_using_code_examples" playOrder="11"><navLabel><text>Using Code Examples</text></navLabel><content src="preface01.xhtml#_using_code_examples"/></navPoint>
+<navPoint id="_safari_books_online" playOrder="12"><navLabel><text>O’Reilly Online Learning</text></navLabel><content src="preface01.xhtml#_safari_books_online"/></navPoint>
+<navPoint id="_how_to_contact_us" playOrder="13"><navLabel><text>How to Contact Us</text></navLabel><content src="preface01.xhtml#_how_to_contact_us"/></navPoint>
+<navPoint id="further_info" playOrder="14"><navLabel><text>Further Information</text></navLabel><content src="preface01.xhtml#further_info"/></navPoint>
+<navPoint id="_acknowledgments" playOrder="15"><navLabel><text>Acknowledgments</text></navLabel><content src="preface01.xhtml#_acknowledgments"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="foundations" playOrder="16"><navLabel><text>I. Foundations</text></navLabel><content src="part01.xhtml#foundations"/></navPoint>
+<navPoint id="nlp_a_primer" playOrder="17"><navLabel><text>1. NLP: A Primer</text></navLabel><content src="ch01.xhtml#nlp_a_primer"/><navPoint id="nlp_in_the_real_world" playOrder="18"><navLabel><text>NLP in the Real World</text></navLabel><content src="ch01.xhtml#nlp_in_the_real_world"/><navPoint id="nlp_tasks" playOrder="19"><navLabel><text>NLP Tasks</text></navLabel><content src="ch01.xhtml#nlp_tasks"/></navPoint>
+</navPoint>
+<navPoint id="what_is_languagequestion_mark" playOrder="20"><navLabel><text>What Is Language?</text></navLabel><content src="ch01.xhtml#what_is_languagequestion_mark"/><navPoint id="building_blocks" playOrder="21"><navLabel><text>Building Blocks of Language</text></navLabel><content src="ch01.xhtml#building_blocks"/></navPoint>
+<navPoint id="how_does_language_make_nlp_challengingq" playOrder="22"><navLabel><text>Why Is NLP Challenging?</text></navLabel><content src="ch01.xhtml#how_does_language_make_nlp_challengingq"/></navPoint>
+</navPoint>
+<navPoint id="machine_learningcomma_deep_learningcomm" playOrder="23"><navLabel><text>Machine Learning, Deep Learning, and NLP: An Overview</text></navLabel><content src="ch01.xhtml#machine_learningcomma_deep_learningcomm"/></navPoint>
+<navPoint id="approaches_to_nlp" playOrder="24"><navLabel><text>Approaches to NLP</text></navLabel><content src="ch01.xhtml#approaches_to_nlp"/><navPoint id="heuristics_based_nlp" playOrder="25"><navLabel><text>Heuristics-Based NLP</text></navLabel><content src="ch01.xhtml#heuristics_based_nlp"/></navPoint>
+<navPoint id="machine_learning_for_nlp" playOrder="26"><navLabel><text>Machine Learning for NLP</text></navLabel><content src="ch01.xhtml#machine_learning_for_nlp"/></navPoint>
+<navPoint id="deep_learning_for_nlp" playOrder="27"><navLabel><text>Deep Learning for NLP</text></navLabel><content src="ch01.xhtml#deep_learning_for_nlp"/></navPoint>
+<navPoint id="why_deep_learning_is_not_yet_the_silver" playOrder="28"><navLabel><text>Why Deep Learning Is Not Yet the Silver Bullet for NLP</text></navLabel><content src="ch01.xhtml#why_deep_learning_is_not_yet_the_silver"/></navPoint>
+</navPoint>
+<navPoint id="an_nlp_walkthrough_conversational_agent" playOrder="29"><navLabel><text>An NLP Walkthrough: Conversational Agents</text></navLabel><content src="ch01.xhtml#an_nlp_walkthrough_conversational_agent"/></navPoint>
+<navPoint id="wrapping_up-id00061" playOrder="30"><navLabel><text>Wrapping Up</text></navLabel><content src="ch01.xhtml#wrapping_up-id00061"/></navPoint>
+</navPoint>
+<navPoint id="nlp_pipeline" playOrder="31"><navLabel><text>2. NLP Pipeline</text></navLabel><content src="ch02.xhtml#nlp_pipeline"/><navPoint id="data_acquisition" playOrder="32"><navLabel><text>Data Acquisition</text></navLabel><content src="ch02.xhtml#data_acquisition"/></navPoint>
+<navPoint id="text_extraction_and_cleanup" playOrder="33"><navLabel><text>Text Extraction and Cleanup</text></navLabel><content src="ch02.xhtml#text_extraction_and_cleanup"/><navPoint id="html_parsing_and_cleanup" playOrder="34"><navLabel><text>HTML Parsing and Cleanup</text></navLabel><content src="ch02.xhtml#html_parsing_and_cleanup"/></navPoint>
+<navPoint id="unicode_normalization" playOrder="35"><navLabel><text>Unicode Normalization</text></navLabel><content src="ch02.xhtml#unicode_normalization"/></navPoint>
+<navPoint id="spelling_correction" playOrder="36"><navLabel><text>Spelling Correction</text></navLabel><content src="ch02.xhtml#spelling_correction"/></navPoint>
+<navPoint id="system_specific_error_correction" playOrder="37"><navLabel><text>System-Specific Error Correction</text></navLabel><content src="ch02.xhtml#system_specific_error_correction"/></navPoint>
+</navPoint>
+<navPoint id="pre_processing" playOrder="38"><navLabel><text>Pre-Processing</text></navLabel><content src="ch02.xhtml#pre_processing"/><navPoint id="preliminaries" playOrder="39"><navLabel><text>Preliminaries</text></navLabel><content src="ch02.xhtml#preliminaries"/></navPoint>
+<navPoint id="frequent_steps" playOrder="40"><navLabel><text>Frequent Steps</text></navLabel><content src="ch02.xhtml#frequent_steps"/></navPoint>
+<navPoint id="other_pre_processing_steps" playOrder="41"><navLabel><text>Other Pre-Processing Steps</text></navLabel><content src="ch02.xhtml#other_pre_processing_steps"/></navPoint>
+<navPoint id="advanced_processing" playOrder="42"><navLabel><text>Advanced Processing</text></navLabel><content src="ch02.xhtml#advanced_processing"/></navPoint>
+</navPoint>
+<navPoint id="feature_engineering" playOrder="43"><navLabel><text>Feature Engineering</text></navLabel><content src="ch02.xhtml#feature_engineering"/><navPoint id="classical_nlpsolidusml_pipeline" playOrder="44"><navLabel><text>Classical NLP/ML Pipeline</text></navLabel><content src="ch02.xhtml#classical_nlpsolidusml_pipeline"/></navPoint>
+<navPoint id="dl_pipeline" playOrder="45"><navLabel><text>DL Pipeline</text></navLabel><content src="ch02.xhtml#dl_pipeline"/></navPoint>
+</navPoint>
+<navPoint id="modeling" playOrder="46"><navLabel><text>Modeling</text></navLabel><content src="ch02.xhtml#modeling"/><navPoint id="start_with_simple_heuristics" playOrder="47"><navLabel><text>Start with Simple Heuristics</text></navLabel><content src="ch02.xhtml#start_with_simple_heuristics"/></navPoint>
+<navPoint id="building_your_model" playOrder="48"><navLabel><text>Building Your Model</text></navLabel><content src="ch02.xhtml#building_your_model"/></navPoint>
+<navPoint id="building_the_model" playOrder="49"><navLabel><text>Building THE Model</text></navLabel><content src="ch02.xhtml#building_the_model"/></navPoint>
+</navPoint>
+<navPoint id="evaluation" playOrder="50"><navLabel><text>Evaluation</text></navLabel><content src="ch02.xhtml#evaluation"/><navPoint id="intrinsic_evaluation" playOrder="51"><navLabel><text>Intrinsic Evaluation</text></navLabel><content src="ch02.xhtml#intrinsic_evaluation"/></navPoint>
+<navPoint id="extrinsic_evaluation" playOrder="52"><navLabel><text>Extrinsic Evaluation</text></navLabel><content src="ch02.xhtml#extrinsic_evaluation"/></navPoint>
+</navPoint>
+<navPoint id="post_modeling_phases" playOrder="53"><navLabel><text>Post-Modeling Phases</text></navLabel><content src="ch02.xhtml#post_modeling_phases"/><navPoint id="deployment" playOrder="54"><navLabel><text>Deployment</text></navLabel><content src="ch02.xhtml#deployment"/></navPoint>
+<navPoint id="monitoring-id00008" playOrder="55"><navLabel><text>Monitoring</text></navLabel><content src="ch02.xhtml#monitoring-id00008"/></navPoint>
+<navPoint id="model_updating" playOrder="56"><navLabel><text>Model Updating</text></navLabel><content src="ch02.xhtml#model_updating"/></navPoint>
+</navPoint>
+<navPoint id="working_with_other_languages" playOrder="57"><navLabel><text>Working with Other Languages</text></navLabel><content src="ch02.xhtml#working_with_other_languages"/></navPoint>
+<navPoint id="case_study" playOrder="58"><navLabel><text>Case Study</text></navLabel><content src="ch02.xhtml#case_study"/></navPoint>
+<navPoint id="wrapping_up-id00062" playOrder="59"><navLabel><text>Wrapping Up</text></navLabel><content src="ch02.xhtml#wrapping_up-id00062"/></navPoint>
+</navPoint>
+<navPoint id="text_representation" playOrder="60"><navLabel><text>3. Text Representation</text></navLabel><content src="ch03.xhtml#text_representation"/><navPoint id="vector_space_models" playOrder="61"><navLabel><text>Vector Space Models</text></navLabel><content src="ch03.xhtml#vector_space_models"/></navPoint>
+<navPoint id="basic_vectorization_approaches" playOrder="62"><navLabel><text>Basic Vectorization Approaches</text></navLabel><content src="ch03.xhtml#basic_vectorization_approaches"/><navPoint id="one_hot_encoding" playOrder="63"><navLabel><text>One-Hot Encoding</text></navLabel><content src="ch03.xhtml#one_hot_encoding"/></navPoint>
+<navPoint id="bag_of_words" playOrder="64"><navLabel><text>Bag of Words</text></navLabel><content src="ch03.xhtml#bag_of_words"/></navPoint>
+<navPoint id="bag_of_n_grams" playOrder="65"><navLabel><text>Bag of N-Grams</text></navLabel><content src="ch03.xhtml#bag_of_n_grams"/></navPoint>
+<navPoint id="tf_idf" playOrder="66"><navLabel><text>TF-IDF</text></navLabel><content src="ch03.xhtml#tf_idf"/></navPoint>
+</navPoint>
+<navPoint id="distributed_representations" playOrder="67"><navLabel><text>Distributed Representations</text></navLabel><content src="ch03.xhtml#distributed_representations"/><navPoint id="word_embeddings-id00051" playOrder="68"><navLabel><text>Word Embeddings</text></navLabel><content src="ch03.xhtml#word_embeddings-id00051"/></navPoint>
+<navPoint id="going_beyond_words" playOrder="69"><navLabel><text>Going Beyond Words</text></navLabel><content src="ch03.xhtml#going_beyond_words"/></navPoint>
+</navPoint>
+<navPoint id="distributed_representations_beyond_word" playOrder="70"><navLabel><text>Distributed Representations Beyond Words and Characters</text></navLabel><content src="ch03.xhtml#distributed_representations_beyond_word"/></navPoint>
+<navPoint id="universal_text_representations" playOrder="71"><navLabel><text>Universal Text Representations</text></navLabel><content src="ch03.xhtml#universal_text_representations"/></navPoint>
+<navPoint id="visualizing_embeddings" playOrder="72"><navLabel><text>Visualizing Embeddings</text></navLabel><content src="ch03.xhtml#visualizing_embeddings"/></navPoint>
+<navPoint id="handcrafted_feature_representations" playOrder="73"><navLabel><text>Handcrafted Feature Representations</text></navLabel><content src="ch03.xhtml#handcrafted_feature_representations"/></navPoint>
+<navPoint id="wrapping_up-id00063" playOrder="74"><navLabel><text>Wrapping Up</text></navLabel><content src="ch03.xhtml#wrapping_up-id00063"/></navPoint>
+</navPoint>
+<navPoint id="essentials" playOrder="75"><navLabel><text>II. Essentials</text></navLabel><content src="part02.xhtml#essentials"/></navPoint>
+<navPoint id="text_classification" playOrder="76"><navLabel><text>4. Text Classification</text></navLabel><content src="ch04.xhtml#text_classification"/><navPoint id="application" playOrder="77"><navLabel><text>Applications</text></navLabel><content src="ch04.xhtml#application"/></navPoint>
+<navPoint id="a_pipeline_for_building_text_classifica" playOrder="78"><navLabel><text>A Pipeline for Building Text Classification Systems</text></navLabel><content src="ch04.xhtml#a_pipeline_for_building_text_classifica"/><navPoint id="a_simple_classifier_without_the_text_cl" playOrder="79"><navLabel><text>A Simple Classifier Without the Text Classification Pipeline</text></navLabel><content src="ch04.xhtml#a_simple_classifier_without_the_text_cl"/></navPoint>
+<navPoint id="using_existing_text_classification_apis" playOrder="80"><navLabel><text>Using Existing Text Classification APIs</text></navLabel><content src="ch04.xhtml#using_existing_text_classification_apis"/></navPoint>
+</navPoint>
+<navPoint id="one_pipelinecomma_many_classifiers" playOrder="81"><navLabel><text>One Pipeline, Many Classifiers</text></navLabel><content src="ch04.xhtml#one_pipelinecomma_many_classifiers"/><navPoint id="naive_bayes_classifier" playOrder="82"><navLabel><text>Naive Bayes Classifier</text></navLabel><content src="ch04.xhtml#naive_bayes_classifier"/></navPoint>
+<navPoint id="logistic_regression" playOrder="83"><navLabel><text>Logistic Regression</text></navLabel><content src="ch04.xhtml#logistic_regression"/></navPoint>
+<navPoint id="support_vector_machine-id00042" playOrder="84"><navLabel><text>Support Vector Machine</text></navLabel><content src="ch04.xhtml#support_vector_machine-id00042"/></navPoint>
+</navPoint>
+<navPoint id="using_neural_embeddings_in_text_classif" playOrder="85"><navLabel><text>Using Neural Embeddings in Text Classification</text></navLabel><content src="ch04.xhtml#using_neural_embeddings_in_text_classif"/><navPoint id="word_embeddings-id00052" playOrder="86"><navLabel><text>Word Embeddings</text></navLabel><content src="ch04.xhtml#word_embeddings-id00052"/></navPoint>
+<navPoint id="subword_embeddings_and_fasttext" playOrder="87"><navLabel><text>Subword Embeddings and fastText</text></navLabel><content src="ch04.xhtml#subword_embeddings_and_fasttext"/></navPoint>
+<navPoint id="document_embeddings" playOrder="88"><navLabel><text>Document Embeddings</text></navLabel><content src="ch04.xhtml#document_embeddings"/></navPoint>
+</navPoint>
+<navPoint id="deep_learning_for_text_classification" playOrder="89"><navLabel><text>Deep Learning for Text Classification</text></navLabel><content src="ch04.xhtml#deep_learning_for_text_classification"/><navPoint id="cnns_for_text_classification" playOrder="90"><navLabel><text>CNNs for Text Classification</text></navLabel><content src="ch04.xhtml#cnns_for_text_classification"/></navPoint>
+<navPoint id="lstms_for_text_classification" playOrder="91"><navLabel><text>LSTMs for Text Classification</text></navLabel><content src="ch04.xhtml#lstms_for_text_classification"/></navPoint>
+<navPoint id="text_classification_with_largecomma_pre" playOrder="92"><navLabel><text>Text Classification with Large, Pre-Trained Language Models</text></navLabel><content src="ch04.xhtml#text_classification_with_largecomma_pre"/></navPoint>
+</navPoint>
+<navPoint id="interpreting_text_classification_models" playOrder="93"><navLabel><text>Interpreting Text Classification Models</text></navLabel><content src="ch04.xhtml#interpreting_text_classification_models"/><navPoint id="explaining_classifier_predictions_with" playOrder="94"><navLabel><text>Explaining Classifier Predictions with Lime</text></navLabel><content src="ch04.xhtml#explaining_classifier_predictions_with"/></navPoint>
+</navPoint>
+<navPoint id="learning_with_no_or_less_data_and_adapt" playOrder="95"><navLabel><text>Learning with No or Less Data and Adapting to New Domains</text></navLabel><content src="ch04.xhtml#learning_with_no_or_less_data_and_adapt"/><navPoint id="no_training_data" playOrder="96"><navLabel><text>No Training Data</text></navLabel><content src="ch04.xhtml#no_training_data"/></navPoint>
+<navPoint id="less_training_data_active_learning_and" playOrder="97"><navLabel><text>Less Training Data: Active Learning and Domain Adaptation</text></navLabel><content src="ch04.xhtml#less_training_data_active_learning_and"/></navPoint>
+</navPoint>
+<navPoint id="case_study_corporate_ticketing" playOrder="98"><navLabel><text>Case Study: Corporate Ticketing</text></navLabel><content src="ch04.xhtml#case_study_corporate_ticketing"/></navPoint>
+<navPoint id="practical_advice-id00010" playOrder="99"><navLabel><text>Practical Advice</text></navLabel><content src="ch04.xhtml#practical_advice-id00010"/></navPoint>
+<navPoint id="wrapping_up-id00067" playOrder="100"><navLabel><text>Wrapping Up</text></navLabel><content src="ch04.xhtml#wrapping_up-id00067"/></navPoint>
+</navPoint>
+<navPoint id="information_extraction" playOrder="101"><navLabel><text>5. Information Extraction</text></navLabel><content src="ch05.xhtml#information_extraction"/><navPoint id="ie_applications" playOrder="102"><navLabel><text>IE Applications</text></navLabel><content src="ch05.xhtml#ie_applications"/></navPoint>
+<navPoint id="ie_tasks" playOrder="103"><navLabel><text>IE Tasks</text></navLabel><content src="ch05.xhtml#ie_tasks"/></navPoint>
+<navPoint id="the_general_pipeline_for_ie" playOrder="104"><navLabel><text>The General Pipeline for IE</text></navLabel><content src="ch05.xhtml#the_general_pipeline_for_ie"/></navPoint>
+<navPoint id="keyphrase_extraction" playOrder="105"><navLabel><text>Keyphrase Extraction</text></navLabel><content src="ch05.xhtml#keyphrase_extraction"/><navPoint id="implementing_kpe" playOrder="106"><navLabel><text>Implementing KPE</text></navLabel><content src="ch05.xhtml#implementing_kpe"/></navPoint>
+<navPoint id="practical_advice-id00012" playOrder="107"><navLabel><text>Practical Advice</text></navLabel><content src="ch05.xhtml#practical_advice-id00012"/></navPoint>
+</navPoint>
+<navPoint id="named_entity_recognition" playOrder="108"><navLabel><text>Named Entity Recognition</text></navLabel><content src="ch05.xhtml#named_entity_recognition"/><navPoint id="building_an_ner_system" playOrder="109"><navLabel><text>Building an NER System</text></navLabel><content src="ch05.xhtml#building_an_ner_system"/></navPoint>
+<navPoint id="ner_using_an_existing_library" playOrder="110"><navLabel><text>NER Using an Existing Library</text></navLabel><content src="ch05.xhtml#ner_using_an_existing_library"/></navPoint>
+<navPoint id="ner_using_active_learning" playOrder="111"><navLabel><text>NER Using Active Learning</text></navLabel><content src="ch05.xhtml#ner_using_active_learning"/></navPoint>
+<navPoint id="practical_advice-id00013" playOrder="112"><navLabel><text>Practical Advice</text></navLabel><content src="ch05.xhtml#practical_advice-id00013"/></navPoint>
+</navPoint>
+<navPoint id="named_entity_disambiguation_and_linking" playOrder="113"><navLabel><text>Named Entity Disambiguation and Linking</text></navLabel><content src="ch05.xhtml#named_entity_disambiguation_and_linking"/><navPoint id="nel_using_azure_api" playOrder="114"><navLabel><text>NEL Using Azure API</text></navLabel><content src="ch05.xhtml#nel_using_azure_api"/></navPoint>
+</navPoint>
+<navPoint id="relationship_extraction" playOrder="115"><navLabel><text>Relationship Extraction</text></navLabel><content src="ch05.xhtml#relationship_extraction"/><navPoint id="approaches_to_re" playOrder="116"><navLabel><text>Approaches to RE</text></navLabel><content src="ch05.xhtml#approaches_to_re"/></navPoint>
+<navPoint id="re_with_the_watson_api" playOrder="117"><navLabel><text>RE with the Watson API</text></navLabel><content src="ch05.xhtml#re_with_the_watson_api"/></navPoint>
+</navPoint>
+<navPoint id="other_advanced_ie_tasks" playOrder="118"><navLabel><text>Other Advanced IE Tasks</text></navLabel><content src="ch05.xhtml#other_advanced_ie_tasks"/><navPoint id="temporal_information_extraction" playOrder="119"><navLabel><text>Temporal Information Extraction</text></navLabel><content src="ch05.xhtml#temporal_information_extraction"/></navPoint>
+<navPoint id="event_extraction" playOrder="120"><navLabel><text>Event Extraction</text></navLabel><content src="ch05.xhtml#event_extraction"/></navPoint>
+<navPoint id="template_filling" playOrder="121"><navLabel><text>Template Filling</text></navLabel><content src="ch05.xhtml#template_filling"/></navPoint>
+</navPoint>
+<navPoint id="case_study-id00005" playOrder="122"><navLabel><text>Case Study</text></navLabel><content src="ch05.xhtml#case_study-id00005"/></navPoint>
+<navPoint id="wrapping_up-id00070" playOrder="123"><navLabel><text>Wrapping Up</text></navLabel><content src="ch05.xhtml#wrapping_up-id00070"/></navPoint>
+</navPoint>
+<navPoint id="chatbots" playOrder="124"><navLabel><text>6. Chatbots</text></navLabel><content src="ch06.xhtml#chatbots"/><navPoint id="applications-id00001" playOrder="125"><navLabel><text>Applications</text></navLabel><content src="ch06.xhtml#applications-id00001"/><navPoint id="a_simple_faq_bot" playOrder="126"><navLabel><text>A Simple FAQ Bot</text></navLabel><content src="ch06.xhtml#a_simple_faq_bot"/></navPoint>
+</navPoint>
+<navPoint id="a_taxonomy_of_chatbots" playOrder="127"><navLabel><text>A Taxonomy of Chatbots</text></navLabel><content src="ch06.xhtml#a_taxonomy_of_chatbots"/><navPoint id="goal_oriented_dialog" playOrder="128"><navLabel><text>Goal-Oriented Dialog</text></navLabel><content src="ch06.xhtml#goal_oriented_dialog"/></navPoint>
+<navPoint id="chitchats" playOrder="129"><navLabel><text>Chitchats</text></navLabel><content src="ch06.xhtml#chitchats"/></navPoint>
+</navPoint>
+<navPoint id="a_pipeline_for_building_dialog_systems" playOrder="130"><navLabel><text>A Pipeline for Building Dialog Systems</text></navLabel><content src="ch06.xhtml#a_pipeline_for_building_dialog_systems"/></navPoint>
+<navPoint id="dialog_systems_in_detail" playOrder="131"><navLabel><text>Dialog Systems in Detail</text></navLabel><content src="ch06.xhtml#dialog_systems_in_detail"/><navPoint id="pizzastop_chatbot" playOrder="132"><navLabel><text>PizzaStop Chatbot</text></navLabel><content src="ch06.xhtml#pizzastop_chatbot"/></navPoint>
+</navPoint>
+<navPoint id="deep_dive_into_components_of_a_dialog_s" playOrder="133"><navLabel><text>Deep Dive into Components of a Dialog System</text></navLabel><content src="ch06.xhtml#deep_dive_into_components_of_a_dialog_s"/><navPoint id="dialog_act_classification" playOrder="134"><navLabel><text>Dialog Act Classification</text></navLabel><content src="ch06.xhtml#dialog_act_classification"/></navPoint>
+<navPoint id="identifying_slots" playOrder="135"><navLabel><text>Identifying Slots</text></navLabel><content src="ch06.xhtml#identifying_slots"/></navPoint>
+<navPoint id="response_generation" playOrder="136"><navLabel><text>Response Generation</text></navLabel><content src="ch06.xhtml#response_generation"/></navPoint>
+<navPoint id="dialog_examples_with_code_walkthrough" playOrder="137"><navLabel><text>Dialog Examples with Code Walkthrough</text></navLabel><content src="ch06.xhtml#dialog_examples_with_code_walkthrough"/></navPoint>
+</navPoint>
+<navPoint id="other_dialog_pipelines" playOrder="138"><navLabel><text>Other Dialog Pipelines</text></navLabel><content src="ch06.xhtml#other_dialog_pipelines"/><navPoint id="end_to_end_approach" playOrder="139"><navLabel><text>End-to-End Approach</text></navLabel><content src="ch06.xhtml#end_to_end_approach"/></navPoint>
+<navPoint id="deep_reinforcement_learning_for_dialogu" playOrder="140"><navLabel><text>Deep Reinforcement Learning for Dialogue Generation</text></navLabel><content src="ch06.xhtml#deep_reinforcement_learning_for_dialogu"/></navPoint>
+<navPoint id="human_in_the_loop" playOrder="141"><navLabel><text>Human-in-the-Loop</text></navLabel><content src="ch06.xhtml#human_in_the_loop"/></navPoint>
+</navPoint>
+<navPoint id="rasa_nlu" playOrder="142"><navLabel><text>Rasa NLU</text></navLabel><content src="ch06.xhtml#rasa_nlu"/></navPoint>
+<navPoint id="a_case_study_recipe_recommendations" playOrder="143"><navLabel><text>A Case Study: Recipe Recommendations</text></navLabel><content src="ch06.xhtml#a_case_study_recipe_recommendations"/><navPoint id="utilizing_existing_frameworks" playOrder="144"><navLabel><text>Utilizing Existing Frameworks</text></navLabel><content src="ch06.xhtml#utilizing_existing_frameworks"/></navPoint>
+<navPoint id="open_ended_generative_chatbots" playOrder="145"><navLabel><text>Open-Ended Generative Chatbots</text></navLabel><content src="ch06.xhtml#open_ended_generative_chatbots"/></navPoint>
+</navPoint>
+<navPoint id="wrapping_up-id00071" playOrder="146"><navLabel><text>Wrapping Up</text></navLabel><content src="ch06.xhtml#wrapping_up-id00071"/></navPoint>
+</navPoint>
+<navPoint id="topics_in_brief" playOrder="147"><navLabel><text>7. Topics in Brief</text></navLabel><content src="ch07.xhtml#topics_in_brief"/><navPoint id="search_and_information_retrieval" playOrder="148"><navLabel><text>Search and Information Retrieval</text></navLabel><content src="ch07.xhtml#search_and_information_retrieval"/><navPoint id="components_of_a_search_engine" playOrder="149"><navLabel><text>Components of a Search Engine</text></navLabel><content src="ch07.xhtml#components_of_a_search_engine"/></navPoint>
+<navPoint id="a_typical_enterprise_search_pipeline" playOrder="150"><navLabel><text>A Typical Enterprise Search Pipeline</text></navLabel><content src="ch07.xhtml#a_typical_enterprise_search_pipeline"/></navPoint>
+<navPoint id="setting_up_a_search_engine_an_example" playOrder="151"><navLabel><text>Setting Up a Search Engine: An Example</text></navLabel><content src="ch07.xhtml#setting_up_a_search_engine_an_example"/></navPoint>
+<navPoint id="a_case_study_book_store_search" playOrder="152"><navLabel><text>A Case Study: Book Store Search</text></navLabel><content src="ch07.xhtml#a_case_study_book_store_search"/></navPoint>
+</navPoint>
+<navPoint id="topic_modeling" playOrder="153"><navLabel><text>Topic Modeling</text></navLabel><content src="ch07.xhtml#topic_modeling"/><navPoint id="training_a_topic_model_an_example" playOrder="154"><navLabel><text>Training a Topic Model: An Example</text></navLabel><content src="ch07.xhtml#training_a_topic_model_an_example"/></navPoint>
+<navPoint id="whatapostrophes_nextquestion_mark" playOrder="155"><navLabel><text>What’s Next?</text></navLabel><content src="ch07.xhtml#whatapostrophes_nextquestion_mark"/></navPoint>
+</navPoint>
+<navPoint id="text_summarization" playOrder="156"><navLabel><text>Text Summarization</text></navLabel><content src="ch07.xhtml#text_summarization"/><navPoint id="summarization_use_cases" playOrder="157"><navLabel><text>Summarization Use Cases</text></navLabel><content src="ch07.xhtml#summarization_use_cases"/></navPoint>
+<navPoint id="setting_up_a_summarizer_an_example" playOrder="158"><navLabel><text>Setting Up a Summarizer: An Example</text></navLabel><content src="ch07.xhtml#setting_up_a_summarizer_an_example"/></navPoint>
+<navPoint id="practical_advice-id00014" playOrder="159"><navLabel><text>Practical Advice</text></navLabel><content src="ch07.xhtml#practical_advice-id00014"/></navPoint>
+</navPoint>
+<navPoint id="recommender_systems_for_textual_data" playOrder="160"><navLabel><text>Recommender Systems for Textual Data</text></navLabel><content src="ch07.xhtml#recommender_systems_for_textual_data"/><navPoint id="creating_a_book_recommender_system_an_e" playOrder="161"><navLabel><text>Creating a Book Recommender System: An Example</text></navLabel><content src="ch07.xhtml#creating_a_book_recommender_system_an_e"/></navPoint>
+<navPoint id="practical_advice-id00015" playOrder="162"><navLabel><text>Practical Advice</text></navLabel><content src="ch07.xhtml#practical_advice-id00015"/></navPoint>
+</navPoint>
+<navPoint id="machine_translation" playOrder="163"><navLabel><text>Machine Translation</text></navLabel><content src="ch07.xhtml#machine_translation"/><navPoint id="using_a_machine_translation_api_an_exam" playOrder="164"><navLabel><text>Using a Machine Translation API: An Example</text></navLabel><content src="ch07.xhtml#using_a_machine_translation_api_an_exam"/></navPoint>
+<navPoint id="practical_advice-id00016" playOrder="165"><navLabel><text>Practical Advice</text></navLabel><content src="ch07.xhtml#practical_advice-id00016"/></navPoint>
+</navPoint>
+<navPoint id="question_answering_systems" playOrder="166"><navLabel><text>Question-Answering Systems</text></navLabel><content src="ch07.xhtml#question_answering_systems"/><navPoint id="developing_a_custom_question_answering" playOrder="167"><navLabel><text>Developing a Custom Question-Answering System</text></navLabel><content src="ch07.xhtml#developing_a_custom_question_answering"/></navPoint>
+<navPoint id="looking_for_deeper_answers" playOrder="168"><navLabel><text>Looking for Deeper Answers</text></navLabel><content src="ch07.xhtml#looking_for_deeper_answers"/></navPoint>
+</navPoint>
+<navPoint id="wrapping_up-id00081" playOrder="169"><navLabel><text>Wrapping Up</text></navLabel><content src="ch07.xhtml#wrapping_up-id00081"/></navPoint>
+</navPoint>
+<navPoint id="applied" playOrder="170"><navLabel><text>III. Applied</text></navLabel><content src="part03.xhtml#applied"/></navPoint>
+<navPoint id="social_media" playOrder="171"><navLabel><text>8. Social Media</text></navLabel><content src="ch08.xhtml#social_media"/><navPoint id="applications-id00002" playOrder="172"><navLabel><text>Applications</text></navLabel><content src="ch08.xhtml#applications-id00002"/></navPoint>
+<navPoint id="unique_challenges" playOrder="173"><navLabel><text>Unique Challenges</text></navLabel><content src="ch08.xhtml#unique_challenges"/></navPoint>
+<navPoint id="nlp_for_social_data" playOrder="174"><navLabel><text>NLP for Social Data</text></navLabel><content src="ch08.xhtml#nlp_for_social_data"/><navPoint id="word_cloud" playOrder="175"><navLabel><text>Word Cloud</text></navLabel><content src="ch08.xhtml#word_cloud"/></navPoint>
+<navPoint id="tokenizer_for_smtd" playOrder="176"><navLabel><text>Tokenizer for SMTD</text></navLabel><content src="ch08.xhtml#tokenizer_for_smtd"/></navPoint>
+<navPoint id="trending_topics" playOrder="177"><navLabel><text>Trending Topics</text></navLabel><content src="ch08.xhtml#trending_topics"/></navPoint>
+<navPoint id="understanding_twitter_sentiment" playOrder="178"><navLabel><text>Understanding Twitter Sentiment</text></navLabel><content src="ch08.xhtml#understanding_twitter_sentiment"/></navPoint>
+<navPoint id="preprocessing_smtd" playOrder="179"><navLabel><text>Pre-Processing SMTD</text></navLabel><content src="ch08.xhtml#preprocessing_smtd"/></navPoint>
+<navPoint id="text_representation_for_smtd" playOrder="180"><navLabel><text>Text Representation for SMTD</text></navLabel><content src="ch08.xhtml#text_representation_for_smtd"/></navPoint>
+<navPoint id="customer_support_on_social_channels" playOrder="181"><navLabel><text>Customer Support on Social Channels</text></navLabel><content src="ch08.xhtml#customer_support_on_social_channels"/></navPoint>
+</navPoint>
+<navPoint id="memes_and_fake_news" playOrder="182"><navLabel><text>Memes and Fake News</text></navLabel><content src="ch08.xhtml#memes_and_fake_news"/><navPoint id="identifying_memes" playOrder="183"><navLabel><text>Identifying Memes</text></navLabel><content src="ch08.xhtml#identifying_memes"/></navPoint>
+<navPoint id="fake_news" playOrder="184"><navLabel><text>Fake News</text></navLabel><content src="ch08.xhtml#fake_news"/></navPoint>
+</navPoint>
+<navPoint id="wrapping_up-id00082" playOrder="185"><navLabel><text>Wrapping Up</text></navLabel><content src="ch08.xhtml#wrapping_up-id00082"/></navPoint>
+</navPoint>
+<navPoint id="e_commerce_and_retail" playOrder="186"><navLabel><text>9. E-Commerce and Retail</text></navLabel><content src="ch09.xhtml#e_commerce_and_retail"/><navPoint id="e_commerce_catalog" playOrder="187"><navLabel><text>E-Commerce Catalog</text></navLabel><content src="ch09.xhtml#e_commerce_catalog"/><navPoint id="review_analysi" playOrder="188"><navLabel><text>Review Analysis</text></navLabel><content src="ch09.xhtml#review_analysi"/></navPoint>
+<navPoint id="product_search" playOrder="189"><navLabel><text>Product Search</text></navLabel><content src="ch09.xhtml#product_search"/></navPoint>
+<navPoint id="product_recommendations" playOrder="190"><navLabel><text>Product Recommendations</text></navLabel><content src="ch09.xhtml#product_recommendations"/></navPoint>
+</navPoint>
+<navPoint id="search_in_e_commerce" playOrder="191"><navLabel><text>Search in E-Commerce</text></navLabel><content src="ch09.xhtml#search_in_e_commerce"/></navPoint>
+<navPoint id="building_an_e_commerce_catalog" playOrder="192"><navLabel><text>Building an E-Commerce Catalog</text></navLabel><content src="ch09.xhtml#building_an_e_commerce_catalog"/><navPoint id="attribute_extraction" playOrder="193"><navLabel><text>Attribute Extraction</text></navLabel><content src="ch09.xhtml#attribute_extraction"/></navPoint>
+<navPoint id="product_categorization_and_taxonomy" playOrder="194"><navLabel><text>Product Categorization and Taxonomy</text></navLabel><content src="ch09.xhtml#product_categorization_and_taxonomy"/></navPoint>
+<navPoint id="product_enrichment" playOrder="195"><navLabel><text>Product Enrichment</text></navLabel><content src="ch09.xhtml#product_enrichment"/></navPoint>
+<navPoint id="product_deduplication_and_matching" playOrder="196"><navLabel><text>Product Deduplication and Matching</text></navLabel><content src="ch09.xhtml#product_deduplication_and_matching"/></navPoint>
+</navPoint>
+<navPoint id="review_analys" playOrder="197"><navLabel><text>Review Analysis</text></navLabel><content src="ch09.xhtml#review_analys"/><navPoint id="sentiment_analysis" playOrder="198"><navLabel><text>Sentiment Analysis</text></navLabel><content src="ch09.xhtml#sentiment_analysis"/></navPoint>
+<navPoint id="aspect_level_sentiment_analysis" playOrder="199"><navLabel><text>Aspect-Level Sentiment Analysis</text></navLabel><content src="ch09.xhtml#aspect_level_sentiment_analysis"/></navPoint>
+<navPoint id="connecting_overall_ratings_to_aspects" playOrder="200"><navLabel><text>Connecting Overall Ratings to Aspects</text></navLabel><content src="ch09.xhtml#connecting_overall_ratings_to_aspects"/></navPoint>
+<navPoint id="understanding_aspects" playOrder="201"><navLabel><text>Understanding Aspects</text></navLabel><content src="ch09.xhtml#understanding_aspects"/></navPoint>
+</navPoint>
+<navPoint id="recommendations_for_e_commerce" playOrder="202"><navLabel><text>Recommendations for E-Commerce</text></navLabel><content src="ch09.xhtml#recommendations_for_e_commerce"/><navPoint id="a_case_study_substitutes_and_complement" playOrder="203"><navLabel><text>A Case Study: Substitutes and Complements</text></navLabel><content src="ch09.xhtml#a_case_study_substitutes_and_complement"/></navPoint>
+</navPoint>
+<navPoint id="wrapping_up-id00083" playOrder="204"><navLabel><text>Wrapping Up</text></navLabel><content src="ch09.xhtml#wrapping_up-id00083"/></navPoint>
+</navPoint>
+<navPoint id="healthcarecomma_financecomma_and_law" playOrder="205"><navLabel><text>10. Healthcare, Finance, and Law</text></navLabel><content src="ch10.xhtml#healthcarecomma_financecomma_and_law"/><navPoint id="healthcare" playOrder="206"><navLabel><text>Healthcare</text></navLabel><content src="ch10.xhtml#healthcare"/><navPoint id="health_and_medical_records" playOrder="207"><navLabel><text>Health and Medical Records</text></navLabel><content src="ch10.xhtml#health_and_medical_records"/></navPoint>
+<navPoint id="patient_prioritization_and_billing" playOrder="208"><navLabel><text>Patient Prioritization and Billing</text></navLabel><content src="ch10.xhtml#patient_prioritization_and_billing"/></navPoint>
+<navPoint id="pharmacovigilance" playOrder="209"><navLabel><text>Pharmacovigilance</text></navLabel><content src="ch10.xhtml#pharmacovigilance"/></navPoint>
+<navPoint id="clinical_decision_support_systems" playOrder="210"><navLabel><text>Clinical Decision Support Systems</text></navLabel><content src="ch10.xhtml#clinical_decision_support_systems"/></navPoint>
+<navPoint id="health_assistants" playOrder="211"><navLabel><text>Health Assistants</text></navLabel><content src="ch10.xhtml#health_assistants"/></navPoint>
+<navPoint id="electronic_health_records" playOrder="212"><navLabel><text>Electronic Health Records</text></navLabel><content src="ch10.xhtml#electronic_health_records"/></navPoint>
+<navPoint id="mental_healthcare_monitoring" playOrder="213"><navLabel><text>Mental Healthcare Monitoring</text></navLabel><content src="ch10.xhtml#mental_healthcare_monitoring"/></navPoint>
+<navPoint id="medical_information_extraction_and_anal" playOrder="214"><navLabel><text>Medical Information Extraction and Analysis</text></navLabel><content src="ch10.xhtml#medical_information_extraction_and_anal"/></navPoint>
+</navPoint>
+<navPoint id="finance_and_law" playOrder="215"><navLabel><text>Finance and Law</text></navLabel><content src="ch10.xhtml#finance_and_law"/><navPoint id="nlp_applications_in_finance" playOrder="216"><navLabel><text>NLP Applications in Finance</text></navLabel><content src="ch10.xhtml#nlp_applications_in_finance"/></navPoint>
+<navPoint id="nlp_and_the_legal_landscape" playOrder="217"><navLabel><text>NLP and the Legal Landscape</text></navLabel><content src="ch10.xhtml#nlp_and_the_legal_landscape"/></navPoint>
+</navPoint>
+<navPoint id="wrapping_up-id00085" playOrder="218"><navLabel><text>Wrapping Up</text></navLabel><content src="ch10.xhtml#wrapping_up-id00085"/></navPoint>
+</navPoint>
+<navPoint id="bringing_it_all_together" playOrder="219"><navLabel><text>IV. Bringing It All Together</text></navLabel><content src="part04.xhtml#bringing_it_all_together"/></navPoint>
+<navPoint id="the_end_to_end_nlp_process" playOrder="220"><navLabel><text>11. The End-to-End NLP Process</text></navLabel><content src="ch11.xhtml#the_end_to_end_nlp_process"/><navPoint id="revisiting_the_nlp_pipeline_deploying_n" playOrder="221"><navLabel><text>Revisiting the NLP Pipeline: Deploying NLP Software</text></navLabel><content src="ch11.xhtml#revisiting_the_nlp_pipeline_deploying_n"/><navPoint id="an_example_scenario" playOrder="222"><navLabel><text>An Example Scenario</text></navLabel><content src="ch11.xhtml#an_example_scenario"/></navPoint>
+</navPoint>
+<navPoint id="building_and_maintaining_a_mature_syste" playOrder="223"><navLabel><text>Building and Maintaining a Mature System</text></navLabel><content src="ch11.xhtml#building_and_maintaining_a_mature_syste"/><navPoint id="finding_better_features" playOrder="224"><navLabel><text>Finding Better Features</text></navLabel><content src="ch11.xhtml#finding_better_features"/></navPoint>
+<navPoint id="iterating_existing_models" playOrder="225"><navLabel><text>Iterating Existing Models</text></navLabel><content src="ch11.xhtml#iterating_existing_models"/></navPoint>
+<navPoint id="code_and_model_reproducibility" playOrder="226"><navLabel><text>Code and Model Reproducibility</text></navLabel><content src="ch11.xhtml#code_and_model_reproducibility"/></navPoint>
+<navPoint id="troubleshooting_and_interpretability" playOrder="227"><navLabel><text>Troubleshooting and Interpretability</text></navLabel><content src="ch11.xhtml#troubleshooting_and_interpretability"/></navPoint>
+<navPoint id="monitoring-id00009" playOrder="228"><navLabel><text>Monitoring</text></navLabel><content src="ch11.xhtml#monitoring-id00009"/></navPoint>
+<navPoint id="minimizing_technical_debt" playOrder="229"><navLabel><text>Minimizing Technical Debt</text></navLabel><content src="ch11.xhtml#minimizing_technical_debt"/></navPoint>
+<navPoint id="automating_machine_learning" playOrder="230"><navLabel><text>Automating Machine Learning</text></navLabel><content src="ch11.xhtml#automating_machine_learning"/></navPoint>
+</navPoint>
+<navPoint id="the_data_science_process" playOrder="231"><navLabel><text>The Data Science Process</text></navLabel><content src="ch11.xhtml#the_data_science_process"/><navPoint id="the_kdd_process" playOrder="232"><navLabel><text>The KDD Process</text></navLabel><content src="ch11.xhtml#the_kdd_process"/></navPoint>
+<navPoint id="microsoft_team_data_science_process" playOrder="233"><navLabel><text>Microsoft Team Data Science Process</text></navLabel><content src="ch11.xhtml#microsoft_team_data_science_process"/></navPoint>
+</navPoint>
+<navPoint id="making_ai_succeed_at_your_organization" playOrder="234"><navLabel><text>Making AI Succeed at Your Organization</text></navLabel><content src="ch11.xhtml#making_ai_succeed_at_your_organization"/><navPoint id="team" playOrder="235"><navLabel><text>Team</text></navLabel><content src="ch11.xhtml#team"/></navPoint>
+<navPoint id="right_problem_and_right_expectations" playOrder="236"><navLabel><text>Right Problem and Right Expectations</text></navLabel><content src="ch11.xhtml#right_problem_and_right_expectations"/></navPoint>
+<navPoint id="data_and_timing" playOrder="237"><navLabel><text>Data and Timing</text></navLabel><content src="ch11.xhtml#data_and_timing"/></navPoint>
+<navPoint id="a_good_process" playOrder="238"><navLabel><text>A Good Process</text></navLabel><content src="ch11.xhtml#a_good_process"/></navPoint>
+<navPoint id="other_aspects" playOrder="239"><navLabel><text>Other Aspects</text></navLabel><content src="ch11.xhtml#other_aspects"/></navPoint>
+</navPoint>
+<navPoint id="peeking_over_the_horizon" playOrder="240"><navLabel><text>Peeking over the Horizon</text></navLabel><content src="ch11.xhtml#peeking_over_the_horizon"/></navPoint>
+<navPoint id="final_words" playOrder="241"><navLabel><text>Final Words</text></navLabel><content src="ch11.xhtml#final_words"/></navPoint>
+</navPoint>
+<navPoint id="idm45969586111832" playOrder="242"><navLabel><text>Index</text></navLabel><content src="ix01.xhtml#idm45969586111832"/></navPoint>
+</navMap>
+</ncx>
