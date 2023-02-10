@@ -1,0 +1,598 @@
+<!--[if IE]><![endif]--><!DOCTYPE html><!--[if lt IE 9]><meta http-equiv="refresh" content="0; url=/unsupported-browser/" /><![endif]--><!--[if lt IE 10]><html class="no-js ie8 oldie" lang="en" prefix="og: http://ogp.me/ns/# og:book: http://ogp.me/ns/book# og:video: http://ogp.me/ns/video#"
+
+    
+        itemscope itemtype="http://schema.org/Book http://schema.org/CollectionPage" data-login-url="/accounts/login/"
+data-offline-url="/"
+data-url="/library/view/practical-natural-language/9781492054047/"
+data-csrf-cookie="csrfsafari"
+data-highlight-privacy="private"
+
+
+  data-user-id="7238261"
+  data-user-uuid="b15aaa1b-febc-4439-bad1-bbf45c38a0d7"
+  data-username="wademe6983"
+  data-account-type="Trial"
+  
+  data-activated-trial-date="06/08/2020"
+
+
+  data-archive="9781492054047"
+  data-publishers="O&#39;Reilly Media, Inc."
+
+
+  
+	data-book-overview="true" data-debug=0 data-testing=0><![endif]--><!--[if gt IE 9]><!--><html class="no-js" lang="en" prefix="og: http://ogp.me/ns/# og:book: http://ogp.me/ns/book# og:video: http://ogp.me/ns/video#"
+
+    
+        itemscope itemtype="http://schema.org/Book http://schema.org/CollectionPage" data-login-url="/accounts/login/"
+data-offline-url="/"
+data-url="/library/view/practical-natural-language/9781492054047/"
+data-csrf-cookie="csrfsafari"
+data-highlight-privacy="private"
+
+
+  data-user-id="7238261"
+  data-user-uuid="b15aaa1b-febc-4439-bad1-bbf45c38a0d7"
+  data-username="wademe6983"
+  data-account-type="Trial"
+  
+  data-activated-trial-date="06/08/2020"
+
+
+  data-archive="9781492054047"
+  data-publishers="O&#39;Reilly Media, Inc."
+
+
+  
+	data-book-overview="true" data-debug=0 data-testing=0><!--<![endif]--><head><title>Practical Natural Language Processing</title><meta name="description" content="Many books and courses tackle natural language processing (NLP) problems with toy use cases and well-defined datasets. But if you want to build, iterate, and..." /><link rel="shortcut icon" href="https://www.oreilly.com/favicon.ico" /><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="author" content="Safari Books Online" /><meta name="format-detection" content="telephone=no"><meta http-equiv="cleartype" content="on"/><meta name="HandheldFriendly" content="True"/><meta name="MobileOptimized" content="320"/><meta name="apple-itunes-app" content="app-id=881697395, app-argument=safaridetail://9781492054047"/><link rel="shortcut icon" href="https://www.oreilly.com/favicon.ico" /><meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0"/><meta property="twitter:account_id" content="4503599627559754" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'><link rel="stylesheet" href="/static/CACHE/css/output.4576fc79b1a4.css" type="text/css" /><link rel="stylesheet" href="/static/CACHE/css/output.57c70153668c.css" type="text/css" /><link rel="canonical" href="https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/"/><meta property="og:title" content="Practical Natural Language Processing" /><meta itemprop="name" content="Practical Natural Language Processing" /><meta property="og:url" itemprop="url" content="https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/" /><meta property="og:site_name" content="Safari" /><meta property="og:image" itemprop="thumbnailUrl" content="https://learning.oreilly.com/library/cover/9781492054047/" /><meta property="og:description" itemprop="description" content="Many books and courses tackle natural language processing (NLP) problems with toy use cases and well-defined datasets. But if you want to build, iterate, and scale NLP systems in a ... "><meta itemprop="inLanguage" content="en" /><meta itemprop="publisher" content="O&#39;Reilly Media, Inc." /><meta property="og:type" content="book" /><meta property="og:book:isbn" itemprop="isbn" content="9781492054054" /><meta property="og:book:author" itemprop="author" content="Harshit Surana" /><meta property="og:book:author" itemprop="author" content="Anuj Gupta" /><meta property="og:book:author" itemprop="author" content="Bodhisattwa Majumder" /><meta property="og:book:author" itemprop="author" content="Sowmya Vajjala" /><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@OReillyMedia"><!--[if lt IE 9]><script src="/static/js/src/respond.min.3b44ce04a146.js"></script><![endif]--><script src="//fast.appcues.com/48743.js"></script><script>
+    function decodeHtml(html) {
+      var txt = document.createElement("textarea");
+      txt.innerHTML = html;
+      return txt.value;
+    }
+
+    window.dataLayer = window.dataLayer || [];
+    context = {
+      product: {
+        title: 'Practical Natural Language Processing',
+        type: 'book',
+        identifier: '9781492054047',
+        topic: 'Natural Language Processing'
+      },
+      content: {
+        title: 'Practical Natural Language Processing',
+        formatType: 'book',
+        identifier: '9781492054047',
+        author: 'Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana',
+        publisher: decodeHtml('O&#39;Reilly Media, Inc.'),
+        releaseDate: '2020-06-23',
+        parentTopic: 'none',
+        free: 'no',
+        subdirectory: 'none'
+      }
+    }
+    dataLayer.push(context);
+
+    var userId = "b15aaa1b-febc-4439-bad1-bbf45c38a0d7";
+
+    var userObject = {
+      firstName: "Jake",
+      segment: "Trial",
+      admin: "False",
+      profileCreatedOn: "2020-06-08",
+      academic: ""
+    };
+    window.Appcues.identify(userId, userObject);
+    window.Appcues.page();
+
+    setTimeout(function () {
+      window.Appcues.track('ViewingCover_HeronBook')
+    }, 20000);
+  </script><script>
+    var dataLayer = window.dataLayer || [];
+
+    
+      window.medalliaVsgUserIdentifier = 'b15aaa1b-febc-4439-bad1-bbf45c38a0d7';
+      dataLayer.push({userIdentifier: 'b15aaa1b-febc-4439-bad1-bbf45c38a0d7'});
+      dataLayer.push({loggedIn: 'yes'});
+
+      
+        window.medalliaVsgAccountIdentifier = '5bf827ff-7d67-45a7-a866-685b015232e1';
+        
+
+        window.medalliaVsgIsIndividual = true;
+        
+          
+          dataLayer.push({learningAccountType: 'free trial'});
+          
+        
+
+        
+      
+    
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5P4V6Z');
+    (function () {
+      var VERSION = 'V1.1';
+      var AUTHOR = 'Awwad';
+      if (!window.GtmHelper)
+        window.GtmHelper = function () {
+          var instance = this;
+          var loc = document.location;
+          this.version = VERSION;
+          this.author = AUTHOR;
+          this.readCookie = function (name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+              var c = ca[i];
+              while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+              if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+          };
+          this.createCookie = function (name, value, days, cookieDomain) {
+            var domain = "";
+            var expires = "";
+
+            if (days) {
+              var date = new Date();
+              date.setTime(date.getTime() + Math.ceil(days * 24 * 60 * 60 * 1000));
+              var expires = " expires=" + date.toGMTString() + ";";
+            }
+
+            if (typeof (cookieDomain) != 'undefined')
+              domain = " domain=" + cookieDomain + "; ";
+
+            document.cookie = name + "=" + value + ";" + expires + domain + "path=/";
+          };
+
+          this.isDuplicated = function (currentTransactionId) {
+            // the previous transaction id:
+            var previousTransIdValue = this.readCookie("previousTransId");
+
+            if (currentTransactionId === previousTransIdValue) {
+              return true; // Duplication
+            } else {
+              return false;
+            }
+          };
+        }
+    })()
+  </script><script defer src="/jsi18n/web/" charset="utf-8"></script><script src="/static/js/src/modernizr.8e35451ddb64.js"></script><script>
+      var g = {};
+      
+      
+      window.SBO = {
+        "constants": {
+          "SEARCH_ENDPOINT": "/api/v2/search/",
+          "SEARCH_SELECT_ENDPOINT": "https://learning.oreilly.com/api/v2/search/select/",
+          "SUGGEST_ENDPOINT": "https://learning.oreilly.com/api/v1/search/suggest/",
+          "REVIEWS_ENDPOINT": "https://learning.oreilly.com/api/v1/reviews/",
+          "REPORTS_ENDPOINT": "https://learning.oreilly.com/api/v1/reports/",
+          "REPORTS_BATCH_ENDPOINT": "https://learning.oreilly.com/api/v1/reports/batch/",
+          "ACADEMIC_INSTITUTION_ACCOUNT": "false",
+          "ENABLE_ONLINE_TRAINING": true,
+        }
+      };
+
+        window.CURRENT_SITE = "learning.oreilly.com" || "www.safaribooksonline.com";
+
+    </script><script src="/static/js/src/remove-dup-cookies.3b1f381d4a59.js"></script><script>
+  ga('send', 'pageview');
+  window.queued = JSON.parse('[]');
+</script><script defer src="/static/js/build/vendor.360f5d63fb28.js"></script><script defer src="/static/js/build/detailPage.d301b1464a61.js"></script><!-- Start Visual Website Optimizer Asynchronous Code --><script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=291788,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><!-- End Visual Website Optimizer Asynchronous Code --></head><body class="sidenav nav-collapsed bg js-heron  "><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5P4V6Z"
+            height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript><a href="//www.oreilly.com/" class="orm-topbar"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 10" width="78" height="13"><desc>O'Reilly logo</desc><polygon points="28.09 1.96 28.09 0.42 21.68 0.42 21.68 9.64 28.09 9.64 28.09 8.11 23.22 8.11 23.22 5.8 27.86 5.8 27.86 4.27 23.22 4.27 23.22 1.96 28.09 1.96"/><polygon points="32.85 9.64 32.85 0.42 34.39 0.42 34.39 8.11 38.82 8.11 38.82 9.64 32.85 9.64"/><polygon points="40.07 9.64 40.07 0.42 41.61 0.42 41.61 8.11 46.04 8.11 46.04 9.64 40.07 9.64"/><rect x="29.71" y="0.42" width="1.54" height="9.22"/><path d="M1.59,6.28a4.8,4.8,0,1,1,4.8,4.8,4.8,4.8,0,0,1-4.8-4.8M4.09,4A3.27,3.27,0,1,0,6.4,3,3.27,3.27,0,0,0,4.09,4" transform="translate(-1.59 -1.2)"/><path d="M19.82,6.89A2.69,2.69,0,0,0,19,1.62H14.41v9.22h1.54V7h2.14l2.32,3.84H22.2ZM15.95,5.47V3.16H19a1.15,1.15,0,0,1,0,2.31h-3.1Z" transform="translate(-1.59 -1.2)"/><path d="M13.32,2.61a1.13,1.13,0,1,1-1.13-1.13,1.13,1.13,0,0,1,1.13,1.13" transform="translate(-1.59 -1.2)"/><polygon points="52.9 0.42 51.03 0.42 48.66 3.85 46.3 0.42 44.43 0.42 47.89 5.44 47.89 9.64 49.43 9.64 49.43 5.44 52.9 0.42"/><path d="M58.31,1.2a2.41,2.41,0,1,0,2.41,2.42A2.42,2.42,0,0,0,58.31,1.2m0,4.44a2,2,0,1,1,2-2,2,2,0,0,1-2,2" transform="translate(-1.59 -1.2)"/><path d="M59.4,3.09a0.72,0.72,0,0,0-.72-0.72H57.32V4.83h0.41v-1h0.69l0.49,1h0.46l-0.51-1a0.71,0.71,0,0,0,.54-0.69m-1.67-.31h0.95a0.31,0.31,0,0,1,.31.31,0.31,0.31,0,0,1-.31.3H57.73V2.78Z" transform="translate(-1.59 -1.2)"/></svg></a><a href="#container" class="skip">Skip to content</a><header class="topbar t-topbar"><nav role="navigation" class="js-site-nav"><ul class="topnav"><li><a href="/home/" class="l0 nav-icn"><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M11.738 14H9.254v-3.676a.617.617 0 0 0-.621-.613H7.39a.617.617 0 0 0-.62.613V14H4.284a.617.617 0 0 1-.622-.613V10.22c0-.327.132-.64.367-.87l3.547-3.493a.627.627 0 0 1 .875 0l3.54 3.499c.234.229.366.54.367.864v3.167a.617.617 0 0 1-.62.613zM7.57 2.181a.625.625 0 0 1 .882 0l5.77 5.692-.93.92-5.28-5.209-5.28 5.208-.932-.919 5.77-5.692z" /></svg><span>Home</span></a></li><li class="search"><a href="#" class="t-search-nav trigger nav-icn l0" data-dropdown-selector=".searchbox"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="20" height="20" version="1.1" fill="#4A3C31"><desc>search icon</desc><g stroke="none" stroke-width="1" fill-rule="evenodd"><path d="M31.3 0C20.9 0 12.5 8.4 12.5 18.8 12.5 22.5 13.6 25.9 15.4 28.8L1.2 42.9C-0.4 44.5-0.4 47.2 1.2 48.8 2 49.6 3.1 50 4.2 50 5.2 50 6.3 49.6 7.1 48.8L21.2 34.6C24.1 36.5 27.5 37.5 31.3 37.5 41.6 37.5 50 29.1 50 18.8 50 8.4 41.6 0 31.3 0ZM31.3 31.3C24.4 31.3 18.8 25.6 18.8 18.8 18.8 11.9 24.4 6.3 31.3 6.3 38.1 6.3 43.8 11.9 43.8 18.8 43.8 25.6 38.1 31.3 31.3 31.3Z"/></g></svg><span>Search</span></a></li><li class="usermenu dropdown"><a href="#" class="trigger l0 nav-icn nav-dropdown"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" version="1.1" fill="#4A3C31"><desc>navigation arrow</desc><g stroke="none" stroke-width="1" fill-rule="evenodd"><path d="M0.1 12.5L9.7 3.1C9.8 3 9.9 3 10 3 10.1 3 10.2 3 10.3 3.1L19.9 12.5C20 12.5 20 12.6 20 12.8 20 12.9 20 13 19.9 13L17 15.9C16.9 16 16.8 16 16.7 16 16.5 16 16.4 16 16.4 15.9L10 9.7 3.6 15.9C3.6 16 3.5 16 3.3 16 3.2 16 3.1 16 3 15.9L0.1 13C0 12.9 0 12.8 0 12.7 0 12.7 0 12.6 0.1 12.5Z"/></g></svg><span>Expand Nav</span></a><div class="drop-content"><ul><li class="flyout-parent"><a
+                href="#"
+                class="l1 nav-icn "
+                
+              ><?xml version="1.0" encoding="UTF-8"?><svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M8,8 C6.34321755,8 5.00013,6.65691245 5.00013,5.00013 C5.00013,3.34334755 6.34321755,2.00026001 8,2.00026001 C9.65678245,2.00026001 10.99987,3.34334755 10.99987,5.00013 C10.99987,6.65691245 9.65678245,8 8,8 Z M2.33024571,11.3523547 L2.33774538,11.3523547 C3.7622187,9.70968996 5.82947484,8.76608166 8.00374984,8.76608166 C10.1780248,8.76608166 12.245281,9.70968996 13.6697543,11.3523547 C13.8892083,11.6177474 14.0062813,11.9530021 13.99974,12.2973138 L13.99974,13.99974 L2.00026001,13.99974 L2.00026001,12.2973138 C1.99371867,11.9530021 2.11079172,11.6177474 2.33024571,11.3523547 Z" id="path-1"></path></svg><span>Your O&#39;Reilly</span></a><ul class="flyout"><li><a
+                    href="/profile/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Profile</span></a></li><li><a
+                    href="/history/"
+                    class="l2 nav-icn"
+                    
+                  ><span>History</span></a></li><li><a
+                    href="/playlists/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Playlists</span></a></li><li><a
+                    href="/u/b15aaa1b-febc-4439-bad1-bbf45c38a0d7/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Highlights</span></a></li></ul></li><li class="flyout-parent"><a
+                href="#"
+                class="l1 nav-icn "
+                
+              ><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M11.564 2.263l2.172 2.174c.17.168.264.397.264.636V11a.6.6 0 0 1-.6.6h-.6V6.2h-6V2.6a.6.6 0 0 1 .6-.6h3.527c.239 0 .468.095.637.263zM2.6 14a.6.6 0 0 1-.6-.6V6.8a.6.6 0 0 1 .6-.6h1.903a1.2 1.2 0 0 1 .849.352L6.2 7.4H11a.6.6 0 0 1 .6.6v5.4a.6.6 0 0 1-.6.6H2.6zM11 5h1.8L11 3.2V5z" /></svg><span>Featured</span></a><ul class="flyout"><li><a
+                    href="/navigate-change/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Navigating Change</span></a></li><li><a
+                    href="/featured/governing-change/"
+                    class="l2 nav-icn"
+                    
+                  ><span>For Government</span></a></li><li><a
+                    href="/recommendations/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Recommended</span></a></li></ul></li><li class="flyout-parent"><a
+                href="#"
+                class="l1 nav-icn "
+                
+              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="20" height="20" version="1.1" fill="#4A3C31"><desc>queue icon</desc><g stroke="none" stroke-width="1" fill-rule="evenodd"><path d="M25 29.2C25.4 29.2 25.8 29.1 26.1 28.9L48.7 16.8C49.5 16.4 50 15.5 50 14.6 50 13.7 49.5 12.8 48.7 12.4L26.1 0.3C25.4-0.1 24.6-0.1 23.9 0.3L1.3 12.4C0.5 12.8 0 13.7 0 14.6 0 15.5 0.5 16.4 1.3 16.8L23.9 28.9C24.2 29.1 24.6 29.2 25 29.2ZM7.3 14.6L25 5.2 42.7 14.6 25 24 7.3 14.6ZM48.7 22.4L47.7 21.9 25 34.2 2.3 21.9 1.3 22.4C0.5 22.9 0 23.7 0 24.7 0 25.6 0.5 26.5 1.3 26.9L23.9 39.3C24.2 39.5 24.6 39.6 25 39.6 25.4 39.6 25.8 39.5 26.1 39.3L48.7 26.9C49.5 26.5 50 25.6 50 24.7 50 23.7 49.5 22.9 48.7 22.4ZM48.7 32.8L47.7 32.3 25 44.6 2.3 32.3 1.3 32.8C0.5 33.3 0 34.1 0 35.1 0 36 0.5 36.9 1.3 37.3L23.9 49.7C24.2 49.9 24.6 50 25 50 25.4 50 25.8 49.9 26.1 49.7L48.7 37.3C49.5 36.9 50 36 50 35.1 50 34.1 49.5 33.3 48.7 32.8Z"/></g></svg><span>Explore</span></a><ul class="flyout"><li><a
+                    href="/topics/"
+                    class="l2 nav-icn"
+                    
+                  ><span>All Topics</span></a></li><li><a
+                    href="/search/?query=&amp;extended_publisher_data=true&amp;highlight=true&amp;include_assessments=false&amp;include_case_studies=true&amp;include_courses=true&amp;include_orioles=true&amp;include_playlists=true&amp;include_collections=true&amp;include_notebooks=true&amp;is_academic_institution_account=false&amp;source=user&amp;formats=book&amp;sort=publication_date&amp;facet_json=true&amp;page=0"
+                    class="l2 nav-icn"
+                    
+                  ><span>Early Releases</span></a></li><li><a
+                    href="/playlists/discover/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Shared Playlists</span></a></li><li><a
+                    href="/search/?query=&amp;extended_publisher_data=true&amp;highlight=true&amp;include_assessments=false&amp;include_case_studies=true&amp;include_courses=true&amp;include_orioles=true&amp;include_playlists=true&amp;include_collections=true&amp;include_notebooks=true&amp;is_academic_institution_account=false&amp;source=user&amp;formats=book&amp;formats=case%20study&amp;formats=learning%20path&amp;formats=live%20online%20training&amp;formats=notebook&amp;formats=oriole&amp;formats=video&amp;sort=popularity&amp;facet_json=true&amp;page=0&amp;collection_type=expert"
+                    class="l2 nav-icn"
+                    
+                  ><span>Most Popular Titles</span></a></li><li><a
+                    href="/resource-centers/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Resource Centers</span></a></li></ul></li><li class="flyout-parent"><a
+                href="#"
+                class="l1 nav-icn "
+                
+              ><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12.8 3.2A1.2 1.2 0 0 1 14 4.4v8.4a1.2 1.2 0 0 1-1.2 1.2H3.2A1.2 1.2 0 0 1 2 12.8V4.4a1.2 1.2 0 0 1 1.2-1.2h1.2V2h1.2v1.2h4.8V2h1.2v1.2h1.2zm-9.6 9.6h9.6V6.2H3.2v6.6zM8 9.5a1.35 1.35 0 1 1 0-2.7 1.35 1.35 0 0 1 0 2.7zm2.7 2.148v.552H5.3v-.552c0-.321.124-.634.355-.858a3.358 3.358 0 0 1 4.69 0c.23.224.355.537.355.858z" /></svg><span>Live Events</span></a><ul class="flyout"><li><a
+                    href="/featured/software-architecture/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Software Arch</span></a></li><li><a
+                    href="/featured/infrastructure-ops/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Infra &amp; Ops</span></a></li><li><a
+                    href="/featured/oscon/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Open Source</span></a></li><li><a
+                    href="/featured/strata/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Strata</span></a></li></ul></li><li class="flyout-parent"><a
+                href="#"
+                class="l1 nav-icn "
+                
+              ><?xml version="1.0" encoding="UTF-8"?><svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M10.0440191,12.1582649 C10.177209,12.3351976 10.2476998,12.552011 10.2434767,12.7742985 L10.2434767,13.9482829 L1.96869684,13.9482829 L1.96869684,12.7742985 C1.96418597,12.536863 2.04491894,12.3056731 2.19625329,12.1226596 L2.20142503,12.1226596 C3.18373453,10.9898864 4.60930376,10.339179 6.10867266,10.339179 C7.30793519,10.339179 8.45998426,10.7554703 9.37576632,11.5017585 L14.3434936,11.5017585 L14.3434936,3.65650645 L1.65650645,3.65650645 L1.65650645,11.5017585 L2.06682298,11.5017585 L1.82063306,12.1582649 L1.32825322,12.1582649 C1.14771395,12.1582649 1,12.010551 1,11.8300117 L1,3.32825322 C1,3.14771395 1.14771395,3 1.32825322,3 L14.6717468,3 C14.852286,3 15,3.14771395 15,3.32825322 L15,11.8300117 C15,12.010551 14.852286,12.1582649 14.6717468,12.1582649 L10.0440191,12.1582649 Z M12.5483683,7.16419284 C12.6159362,7.20929881 12.6563112,7.2853432 12.6558247,7.36658194 C12.6553382,7.44782068 12.6140555,7.5233761 12.5459522,7.56766966 L10.4270949,8.91581376 C10.3903366,8.94010203 10.3431312,8.9419685 10.3045699,8.9206583 C10.2660086,8.89934811 10.2424712,8.85838696 10.2434767,8.81434055 L10.2434767,5.91510593 C10.2420711,5.86982855 10.2666257,5.82771857 10.3067229,5.80664182 C10.3468202,5.78556507 10.3954292,5.7892172 10.431927,5.81604875 L12.5483683,7.16419284 Z M6.10608679,9.81089299 C4.9635781,9.81089299 4.03739181,8.8847067 4.03739181,7.74219802 C4.03739181,6.59968933 4.9635781,5.67350304 6.10608679,5.67350304 C7.24859547,5.67350304 8.17478176,6.59968933 8.17478176,7.74219802 C8.17478176,8.8847067 7.24859547,9.81089299 6.10608679,9.81089299 Z"></path></svg><span>Sandboxes</span></a><ul class="flyout"><li><a
+                    href="/scenarios/kubernetes-sandbox/9781492062820/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Kubernetes</span></a></li><li><a
+                    href="/scenarios/python-sandbox/9781492062844/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Python</span></a></li><li><a
+                    href="/scenarios/tensorflow-sandbox/9781492062851/"
+                    class="l2 nav-icn"
+                    
+                  ><span>TensorFlow</span></a></li><li><a
+                    href="/scenarios/ubuntu-sandbox/9781492062837/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Ubuntu</span></a></li></ul></li><li class="flyout-parent"><a
+                href="#"
+                class="l1 nav-icn "
+                
+              ><svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M11.6467109,4.35328907 L14.7964612,7.51003884 C15.0678463,7.78304342 15.0678463,8.22395603 14.7964612,8.49696061 L11.6467109,11.6467109 L10.6597892,10.6597892 L13.3055794,8 L10.6597892,5.34021084 L11.6467109,4.35328907 Z M4.35328907,11.6467109 L1.20353875,8.48996116 C0.932153749,8.21695658 0.932153749,7.77604397 1.20353875,7.50303939 L4.35328907,4.35328907 L5.34021084,5.34021084 L2.69442057,8 L5.34021084,10.6597892 L4.35328907,11.6467109 Z M5.84417089,11.4997226 L8.67194674,4.50027742 L10.1838269,4.50027742 L7.35605105,11.4997226 L5.84417089,11.4997226 Z" id="Mask"></path></svg><span>Practice</span></a><ul class="flyout"><li><a
+                    href="/scenarios/"
+                    class="l2 nav-icn"
+                    
+                  ><span>Katacoda Scenarios</span></a></li><li><a
+                    href="/interactive/#notebooks"
+                    class="l2 nav-icn"
+                    
+                  ><span>Jupyter Notebooks</span></a></li></ul></li><li ><a
+                href="/live-training/"
+                class="l1 nav-icn "
+                
+              ><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M13.4 9.8a.6.6 0 0 1 .6.6v1.2h-1.2l-.6 2.4H3.8l-.6-2.4H2v-1.2a.6.6 0 0 1 .6-.6h10.8zM8 5.6a1.8 1.8 0 1 1-.001-3.599A1.8 1.8 0 0 1 8 5.6zm3.6 2.35v.95H4.4v-.95c0-.167.066-.33.19-.443A5.08 5.08 0 0 1 8 6.2a5.08 5.08 0 0 1 3.41 1.307c.124.113.19.276.19.444z" /></svg><span>Attend</span></a></li><li ><a
+                href="/certifications/"
+                class="l1 nav-icn "
+                
+              ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path d="M12.912 9.18L14 8.014l-1.088-1.18a.304.304 0 01-.075-.268L13.195 5l-1.535-.463a.313.313 0 01-.194-.194l-.462-1.537-1.565.358c-.09.03-.194 0-.269-.074L8.007 2 6.845 3.09a.303.303 0 01-.269.074l-1.565-.358-.462 1.537a.313.313 0 01-.194.194L2.82 5l.358 1.567a.26.26 0 01-.075.269L2 8.015l1.088 1.164c.075.075.09.18.075.269l-.358 1.567 1.535.463c.09.03.164.104.194.194l.462 1.537 1.565-.358c.015 0 .045-.015.075-.015.075 0 .15.03.209.074L8.007 14l1.163-1.09a.303.303 0 01.269-.074l1.565.358.462-1.537a.313.313 0 01.194-.194L13.195 11l-.358-1.567a.338.338 0 01.075-.254zm-6.046 1.37L4.41 8.26l1.16-1.244 1.767 1.649L10.4 5.6l1.202 1.202-4.242 4.243-.495-.495z"/></svg><span>Certifications</span></a></li><li ><a
+                href="https://get.oreilly.com/email-signup.html"
+                class="l1 nav-icn "
+                target=&quot;_blank&quot;
+              ><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M11.564 2.263l2.172 2.174c.17.168.264.397.264.636V11a.6.6 0 0 1-.6.6h-.6V6.2h-6V2.6a.6.6 0 0 1 .6-.6h3.527c.239 0 .468.095.637.263zM2.6 14a.6.6 0 0 1-.6-.6V6.8a.6.6 0 0 1 .6-.6h1.903a1.2 1.2 0 0 1 .849.352L6.2 7.4H11a.6.6 0 0 1 .6.6v5.4a.6.6 0 0 1-.6.6H2.6zM11 5h1.8L11 3.2V5z" /></svg><span>Newsletters</span></a></li><li ><a
+                href="/u/preferences/"
+                class="l1 nav-icn "
+                
+              ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 53" width="20" height="20" version="1.1" fill="#4A3C31"><desc>settings icon</desc><g stroke="none" stroke-width="1" fill-rule="evenodd"><path d="M44.6 29.6C44.7 28.6 44.8 27.5 44.8 26.5 44.8 25.5 44.7 24.4 44.6 23.4L49.6 19C50 18.8 50.1 18.3 49.9 17.9 48.9 14.7 47.1 11.7 44.9 9.1 44.6 8.8 44.2 8.7 43.8 8.8L37.4 11.1C35.8 9.8 34 8.7 32.1 8L30.9 1.4C30.8 0.9 30.4 0.6 30 0.5 26.7-0.2 23.3-0.2 20 0.5 19.6 0.6 19.2 0.9 19.1 1.4L17.9 8C16 8.7 14.1 9.8 12.6 11.1L6.2 8.8C5.8 8.7 5.4 8.8 5.1 9.1 2.9 11.7 1.1 14.7 0.1 17.9 -0.1 18.3 0 18.8 0.4 19L5.4 23.4C5.3 24.4 5.2 25.5 5.2 26.5 5.2 27.5 5.3 28.6 5.4 29.6L0.4 34C0 34.2-0.1 34.7 0.1 35.1 1.1 38.3 2.9 41.4 5.1 43.9 5.4 44.2 5.8 44.4 6.2 44.2L12.6 42C14.1 43.2 16 44.3 17.9 45L19.1 51.7C19.2 52.1 19.6 52.5 20 52.5 21.6 52.8 23.3 53 25 53 26.7 53 28.4 52.8 30 52.5 30.4 52.5 30.8 52.1 30.9 51.7L32.1 45C34 44.3 35.8 43.2 37.4 42L43.8 44.2C44.2 44.4 44.6 44.2 44.9 43.9 47.1 41.4 48.9 38.3 49.9 35.1 50.1 34.7 50 34.2 49.6 34L44.6 29.6ZM25 36.4C19.6 36.4 15.2 32 15.2 26.5 15.2 21 19.6 16.6 25 16.6 30.4 16.6 34.8 21 34.8 26.5 34.8 32 30.4 36.4 25 36.4Z"/></g></svg><span>Settings</span></a></li><li ><a
+                href="/public/support/"
+                class="l1 nav-icn "
+                
+              ><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M7.363 6.656a2.692 2.692 0 0 1-2.681-2.703c0-1.493 1.2-2.703 2.681-2.703a2.692 2.692 0 0 1 2.682 2.703c0 1.493-1.2 2.703-2.682 2.703zm4.023 2.027c-1.852 0-3.352 1.513-3.352 3.379H2v-1.534c-.006-.31.099-.612.295-.852a6.666 6.666 0 0 1 9.09-.993zm-.543.676h1.12v.304c.003.284.16.543.408.676a.766.766 0 0 0 .77 0l.303-.176.556.966-.302.176a.772.772 0 0 0-.362.676v.08a.772.772 0 0 0 .362.677l.302.21-.556.965-.302-.175a.766.766 0 0 0-.771 0 .778.778 0 0 0-.409.675v.352h-1.106v-.372a.778.778 0 0 0-.409-.676.766.766 0 0 0-.77 0l-.303.176-.556-.912.302-.176a.772.772 0 0 0 .362-.676v-.04-.04a.772.772 0 0 0-.362-.676l-.302-.176.556-.966.289.155a.766.766 0 0 0 .77 0 .778.778 0 0 0 .41-.676V9.36zm1.562 2.703c0-.271-.108-.531-.3-.722a1.001 1.001 0 0 0-.72-.292 1.01 1.01 0 0 0-.992 1.023 1.01 1.01 0 0 0 1.01 1.004 1.01 1.01 0 0 0 1.002-1.013z" /></svg><span>Support</span></a></li><li ><a
+                href="/accounts/logout/"
+                class="l1 nav-icn "
+                
+              ><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M2.613 12.63A.607.607 0 0 1 2 12.03V3.602C2 3.269 2.274 3 2.613 3h5.515v1.204H3.226v7.223h4.902v1.203H2.613zM5.677 9.02V6.611h4.903V4.926a.301.301 0 0 1 .19-.274.31.31 0 0 1 .33.063l2.722 2.673a.594.594 0 0 1 0 .849L11.1 10.909a.31.31 0 0 1-.331.063.301.301 0 0 1-.19-.274V9.02H5.677z" /></svg><span>Sign Out</span></a></li></ul></div></li></ul></nav></header><div id="container" class=""><article data-subscription="active">
+
+    
+
+    
+    <header id="lead">
+      <ul>
+        
+          
+            <li class="search t-search-box">
+              <div class="dropdown searchbox wrap-search-form js-is-falcon-search">
+  <div class="drop-content">
+    <form id="js-search-form-region" action="/search/">
+      <!-- search box with autocomplete rendered here via javascript -->
+    </form>
+ </div>
+</div>
+
+            </li>
+          
+        
+        
+      </ul>
+    </header>
+    
+
+    
+    
+
+
+
+
+  <script defer src="/static/js/build/djangoMessagesPage.ae66c0531f1b.js"></script>
+
+
+
+    
+    
+    
+
+    
+      
+         
+        
+      
+
+      
+
+      
+
+<section class="pod detail-book js-title-detail-page">
+
+<div class="title-info">
+  <div class="cover t-cover">
+<a class='t-cover-position-link' href="/library/view/practical-natural-language/9781492054047/titlepage01.html"><span><img src="/library/cover/9781492054047/" alt="Cover image for Practical Natural Language Processing" height="184" width="140" /></span></a>
+</div>
+  <div class="metadata">
+    <h1 class="title t-title">Practical Natural Language Processing</h1>
+    <div class="review-report" data-identifier="9781492054047" data-title="Practical Natural Language Processing" data-format="book">
+      <div id="js-ratings-modal-region" class="rating-wrapper">
+        <!-- Ratings modal rendered here via js -->
+      </div>
+    </div>
+    
+      
+        <div class="author t-author">by 
+            <a class="js-search-again-link" href="/search/?query=author%3A%22Sowmya%20Vajjala%22&sort=relevance&highlight=true">Sowmya Vajjala</a>, 
+            <a class="js-search-again-link" href="/search/?query=author%3A%22Bodhisattwa%20Majumder%22&sort=relevance&highlight=true">Bodhisattwa Majumder</a>, 
+            <a class="js-search-again-link" href="/search/?query=author%3A%22Anuj%20Gupta%22&sort=relevance&highlight=true">Anuj Gupta</a>, 
+            <a class="js-search-again-link" href="/search/?query=author%3A%22Harshit%20Surana%22&sort=relevance&highlight=true">Harshit Surana</a>
+        </div>
+      
+    
+        <div class="publisher t-publisher">Publisher: 
+            <a class="js-search-again-link" href=/library/publisher/oreilly-media-inc/>O&#39;Reilly Media, Inc.</a>
+        </div>
+    
+    <div class="issued t-issued">Release Date: June 2020</div>
+    
+    
+    <div class="isbn t-isbn">ISBN: 9781492054054</div>
+    
+    
+
+  
+
+  <div class="book-topics">
+    
+      
+        Topic:
+      
+      
+
+
+<ul class="topic-display">
+
+	<li><a href='/topics/natural-language-processing' class="topic t-t-link" data-topic-slug="natural-language-processing">Natural Language Processing</a></li>
+
+</ul>
+
+    
+  </div>
+
+
+    
+      <div class="js-content-uri" data-content-uri="/api/v1/book/9781492054047/">
+        <div class="js-collections-dropdown collections-dropdown menu-bit-cards">
+          
+        </div>
+      </div>
+    
+
+  </div>
+
+  <div class="action">
+      <span class="js-title-detail start-reading" onclick="window.Appcues.track('StartReading_HeronBook')">
+        
+	<a href="/library/view/practical-natural-language/9781492054047/titlepage01.html" class="button position-link t-position-link js-position-book">Start reading now</a>
+
+
+      </span>
+      <!-- Note: Appcues.page() call has a timeout because it has to run after the hyperlink page scroll -->
+      <div onclick="window.Appcues.page()"><a href="#toc" onclick="setTimeout(function() {window.Appcues.page()}, 1000)">View table of contents</a></div>
+
+    
+        
+    
+        
+    
+
+  
+      <div><a href="#publisher_resources" class="purchase-link" onclick="setTimeout(function() {window.Appcues.page()}, 1000)">Publisher Resources</a></div>
+  
+
+  </div>
+</div>
+
+
+  
+  <div class="description t-description">
+    <h2>Book Description</h2>
+    <span><div><p>Many books and courses tackle natural language processing (NLP) problems with toy use cases and well-defined datasets. But if you want to build, iterate, and scale NLP systems in a business setting and tailor them for particular industry verticals, this is your guide. Software engineers and data scientists will learn how to navigate the maze of options available at each step of the journey.</p><p>Through the course of the book, authors Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, and Harshit Surana will guide you through the process of building real-world NLP solutions embedded in larger product setups. You’ll learn how to adapt your solutions for different industry verticals such as healthcare, social media, and retail.</p><p>With this book, you’ll:</p><ul><li>Understand the wide spectrum of problem statements, tasks, and solution approaches within NLP</li><li>Implement and evaluate different NLP applications using machine learning and deep learning methods</li><li>Fine-tune your NLP solution based on your business problem and industry vertical</li><li>Evaluate various algorithms and approaches for NLP product tasks, datasets, and stages</li><li>Produce software solutions following best practices around release, deployment, and DevOps for NLP systems</li><li>Understand best practices, opportunities, and the roadmap for NLP from a business and product leader’s perspective</li></ul></div></span>
+  </div>
+  
+
+
+
+    <div class="description t-description">
+        <h2 id="publisher_resources">Publisher Resources</h2>
+        
+            <ul class="resources">
+                <li>Errata Page: <a href="http://oreilly.com/catalog/0636920262329/errata" target="=_blank">http://oreilly.com/catalog/0636920262329/errata</a></li>
+            </ul>
+        
+            <ul class="resources">
+                <li>Supplemental Content: <a href="https://oreil.ly/PracticalNLP" target="=_blank">https://oreil.ly/PracticalNLP</a></li>
+            </ul>
+        
+    </div>
+
+
+
+
+  <div class="publisher-extra t-publisher-extra">
+    <h2>About the Publisher</h2>
+    
+      
+        <a class="t-publisher-logo-link" href="/library/publisher/oreilly-media-inc/">
+          <img src="/static/images/partners/oreilly-media-inc/ORM_logo_box_rgb.png" class="publisher-logo t-publisher-logo"/>
+        </a>
+      
+      
+        <div class="publisher-description t-publisher-description"><p class="fsl">O’Reilly Media spreads the knowledge of innovators through online and in-person training, books, videos, research, and conferences. Since 1978, O’Reilly has been a chronicler and catalyst of leading-edge development, homing in on the technology trends ...</p></div>
+      
+      <a class="publisher-link t-publisher-link"
+          href="/library/publisher/oreilly-media-inc/">More about O&#39;Reilly Media, Inc.</a>
+    
+  </div>
+
+
+
+  <h2 id="toc">Table of Contents</h2>
+  <ol class="detail-toc">
+
+<li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/foreword01.html"><a href="/library/view/practical-natural-language/9781492054047/foreword01.html#idm45969611374552" class="t-chapter">Foreword</a></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#preface" class="t-chapter">Preface</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#why_we_wrote_this_book" class="t-chapter">Why We Wrote This Book</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#the_philosophy" class="t-chapter">The Philosophy</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#scope" class="t-chapter">Scope</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#who_should_read_this_book" class="t-chapter">Who Should Read This Book</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#what_you_will_learn" class="t-chapter">What You Will Learn</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#structure_of_the_book" class="t-chapter">Structure of the Book</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#how_to_read" class="t-chapter">How to Read This Book</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#_conventions_used_in_this_book" class="t-chapter">Conventions Used in This Book</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#_using_code_examples" class="t-chapter">Using Code Examples</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#_safari_books_online" class="t-chapter">O’Reilly Online Learning</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#_how_to_contact_us" class="t-chapter">How to Contact Us</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#further_info" class="t-chapter">Further Information</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/preface01.html"><a href="/library/view/practical-natural-language/9781492054047/preface01.html#_acknowledgments" class="t-chapter">Acknowledgments</a></li></ol></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/part01.html"><a href="/library/view/practical-natural-language/9781492054047/part01.html#foundations" class="t-chapter">I. Foundations</a></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#nlp_a_primer" class="t-chapter">1. NLP: A Primer</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#nlp_in_the_real_world" class="t-chapter">NLP in the Real World</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#nlp_tasks" class="t-chapter">NLP Tasks</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#what_is_languagequestion_mark" class="t-chapter">What Is Language?</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#building_blocks" class="t-chapter">Building Blocks of Language</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#how_does_language_make_nlp_challengingq" class="t-chapter">Why Is NLP Challenging?</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#machine_learningcomma_deep_learningcomm" class="t-chapter">Machine Learning, Deep Learning, and NLP: An Overview</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#approaches_to_nlp" class="t-chapter">Approaches to NLP</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#heuristics_based_nlp" class="t-chapter">Heuristics-Based NLP</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#machine_learning_for_nlp" class="t-chapter">Machine Learning for NLP</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#deep_learning_for_nlp" class="t-chapter">Deep Learning for NLP</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#why_deep_learning_is_not_yet_the_silver" class="t-chapter">Why Deep Learning Is Not Yet the Silver Bullet for NLP</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#an_nlp_walkthrough_conversational_agent" class="t-chapter">An NLP Walkthrough: Conversational Agents</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch01.html"><a href="/library/view/practical-natural-language/9781492054047/ch01.html#wrapping_up-id00061" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#nlp_pipeline" class="t-chapter">2. NLP Pipeline</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#data_acquisition" class="t-chapter">Data Acquisition</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#text_extraction_and_cleanup" class="t-chapter">Text Extraction and Cleanup</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#html_parsing_and_cleanup" class="t-chapter">HTML Parsing and Cleanup</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#unicode_normalization" class="t-chapter">Unicode Normalization</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#spelling_correction" class="t-chapter">Spelling Correction</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#system_specific_error_correction" class="t-chapter">System-Specific Error Correction</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#pre_processing" class="t-chapter">Pre-Processing</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#preliminaries" class="t-chapter">Preliminaries</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#frequent_steps" class="t-chapter">Frequent Steps</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#other_pre_processing_steps" class="t-chapter">Other Pre-Processing Steps</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#advanced_processing" class="t-chapter">Advanced Processing</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#feature_engineering" class="t-chapter">Feature Engineering</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#classical_nlpsolidusml_pipeline" class="t-chapter">Classical NLP/ML Pipeline</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#dl_pipeline" class="t-chapter">DL Pipeline</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#modeling" class="t-chapter">Modeling</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#start_with_simple_heuristics" class="t-chapter">Start with Simple Heuristics</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#building_your_model" class="t-chapter">Building Your Model</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#building_the_model" class="t-chapter">Building THE Model</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#evaluation" class="t-chapter">Evaluation</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#intrinsic_evaluation" class="t-chapter">Intrinsic Evaluation</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#extrinsic_evaluation" class="t-chapter">Extrinsic Evaluation</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#post_modeling_phases" class="t-chapter">Post-Modeling Phases</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#deployment" class="t-chapter">Deployment</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#monitoring-id00008" class="t-chapter">Monitoring</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#model_updating" class="t-chapter">Model Updating</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#working_with_other_languages" class="t-chapter">Working with Other Languages</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#case_study" class="t-chapter">Case Study</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch02.html"><a href="/library/view/practical-natural-language/9781492054047/ch02.html#wrapping_up-id00062" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#text_representation" class="t-chapter">3. Text Representation</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#vector_space_models" class="t-chapter">Vector Space Models</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#basic_vectorization_approaches" class="t-chapter">Basic Vectorization Approaches</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#one_hot_encoding" class="t-chapter">One-Hot Encoding</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#bag_of_words" class="t-chapter">Bag of Words</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#bag_of_n_grams" class="t-chapter">Bag of N-Grams</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#tf_idf" class="t-chapter">TF-IDF</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#distributed_representations" class="t-chapter">Distributed Representations</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#word_embeddings-id00051" class="t-chapter">Word Embeddings</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#going_beyond_words" class="t-chapter">Going Beyond Words</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#distributed_representations_beyond_word" class="t-chapter">Distributed Representations Beyond Words and Characters</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#universal_text_representations" class="t-chapter">Universal Text Representations</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#visualizing_embeddings" class="t-chapter">Visualizing Embeddings</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#handcrafted_feature_representations" class="t-chapter">Handcrafted Feature Representations</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch03.html"><a href="/library/view/practical-natural-language/9781492054047/ch03.html#wrapping_up-id00063" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/part02.html"><a href="/library/view/practical-natural-language/9781492054047/part02.html#essentials" class="t-chapter">II. Essentials</a></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#text_classification" class="t-chapter">4. Text Classification</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#application" class="t-chapter">Applications</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#a_pipeline_for_building_text_classifica" class="t-chapter">A Pipeline for Building Text Classification Systems</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#a_simple_classifier_without_the_text_cl" class="t-chapter">A Simple Classifier Without the Text Classification Pipeline</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#using_existing_text_classification_apis" class="t-chapter">Using Existing Text Classification APIs</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#one_pipelinecomma_many_classifiers" class="t-chapter">One Pipeline, Many Classifiers</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#naive_bayes_classifier" class="t-chapter">Naive Bayes Classifier</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#logistic_regression" class="t-chapter">Logistic Regression</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#support_vector_machine-id00042" class="t-chapter">Support Vector Machine</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#using_neural_embeddings_in_text_classif" class="t-chapter">Using Neural Embeddings in Text Classification</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#word_embeddings-id00052" class="t-chapter">Word Embeddings</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#subword_embeddings_and_fasttext" class="t-chapter">Subword Embeddings and fastText</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#document_embeddings" class="t-chapter">Document Embeddings</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#deep_learning_for_text_classification" class="t-chapter">Deep Learning for Text Classification</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#cnns_for_text_classification" class="t-chapter">CNNs for Text Classification</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#lstms_for_text_classification" class="t-chapter">LSTMs for Text Classification</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#text_classification_with_largecomma_pre" class="t-chapter">Text Classification with Large, Pre-Trained Language Models</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#interpreting_text_classification_models" class="t-chapter">Interpreting Text Classification Models</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#explaining_classifier_predictions_with" class="t-chapter">Explaining Classifier Predictions with Lime</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#learning_with_no_or_less_data_and_adapt" class="t-chapter">Learning with No or Less Data and Adapting to New Domains</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#no_training_data" class="t-chapter">No Training Data</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#less_training_data_active_learning_and" class="t-chapter">Less Training Data: Active Learning and Domain Adaptation</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#case_study_corporate_ticketing" class="t-chapter">Case Study: Corporate Ticketing</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#practical_advice-id00010" class="t-chapter">Practical Advice</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch04.html"><a href="/library/view/practical-natural-language/9781492054047/ch04.html#wrapping_up-id00067" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#information_extraction" class="t-chapter">5. Information Extraction</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#ie_applications" class="t-chapter">IE Applications</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#ie_tasks" class="t-chapter">IE Tasks</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#the_general_pipeline_for_ie" class="t-chapter">The General Pipeline for IE</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#keyphrase_extraction" class="t-chapter">Keyphrase Extraction</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#implementing_kpe" class="t-chapter">Implementing KPE</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#practical_advice-id00012" class="t-chapter">Practical Advice</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#named_entity_recognition" class="t-chapter">Named Entity Recognition</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#building_an_ner_system" class="t-chapter">Building an NER System</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#ner_using_an_existing_library" class="t-chapter">NER Using an Existing Library</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#ner_using_active_learning" class="t-chapter">NER Using Active Learning</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#practical_advice-id00013" class="t-chapter">Practical Advice</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#named_entity_disambiguation_and_linking" class="t-chapter">Named Entity Disambiguation and Linking</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#nel_using_azure_api" class="t-chapter">NEL Using Azure API</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#relationship_extraction" class="t-chapter">Relationship Extraction</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#approaches_to_re" class="t-chapter">Approaches to RE</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#re_with_the_watson_api" class="t-chapter">RE with the Watson API</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#other_advanced_ie_tasks" class="t-chapter">Other Advanced IE Tasks</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#temporal_information_extraction" class="t-chapter">Temporal Information Extraction</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#event_extraction" class="t-chapter">Event Extraction</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#template_filling" class="t-chapter">Template Filling</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#case_study-id00005" class="t-chapter">Case Study</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch05.html"><a href="/library/view/practical-natural-language/9781492054047/ch05.html#wrapping_up-id00070" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#chatbots" class="t-chapter">6. Chatbots</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#applications-id00001" class="t-chapter">Applications</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#a_simple_faq_bot" class="t-chapter">A Simple FAQ Bot</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#a_taxonomy_of_chatbots" class="t-chapter">A Taxonomy of Chatbots</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#goal_oriented_dialog" class="t-chapter">Goal-Oriented Dialog</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#chitchats" class="t-chapter">Chitchats</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#a_pipeline_for_building_dialog_systems" class="t-chapter">A Pipeline for Building Dialog Systems</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#dialog_systems_in_detail" class="t-chapter">Dialog Systems in Detail</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#pizzastop_chatbot" class="t-chapter">PizzaStop Chatbot</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#deep_dive_into_components_of_a_dialog_s" class="t-chapter">Deep Dive into Components of a Dialog System</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#dialog_act_classification" class="t-chapter">Dialog Act Classification</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#identifying_slots" class="t-chapter">Identifying Slots</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#response_generation" class="t-chapter">Response Generation</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#dialog_examples_with_code_walkthrough" class="t-chapter">Dialog Examples with Code Walkthrough</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#other_dialog_pipelines" class="t-chapter">Other Dialog Pipelines</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#end_to_end_approach" class="t-chapter">End-to-End Approach</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#deep_reinforcement_learning_for_dialogu" class="t-chapter">Deep Reinforcement Learning for Dialogue Generation</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#human_in_the_loop" class="t-chapter">Human-in-the-Loop</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#rasa_nlu" class="t-chapter">Rasa NLU</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#a_case_study_recipe_recommendations" class="t-chapter">A Case Study: Recipe Recommendations</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#utilizing_existing_frameworks" class="t-chapter">Utilizing Existing Frameworks</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#open_ended_generative_chatbots" class="t-chapter">Open-Ended Generative Chatbots</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch06.html"><a href="/library/view/practical-natural-language/9781492054047/ch06.html#wrapping_up-id00071" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#topics_in_brief" class="t-chapter">7. Topics in Brief</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#search_and_information_retrieval" class="t-chapter">Search and Information Retrieval</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#components_of_a_search_engine" class="t-chapter">Components of a Search Engine</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#a_typical_enterprise_search_pipeline" class="t-chapter">A Typical Enterprise Search Pipeline</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#setting_up_a_search_engine_an_example" class="t-chapter">Setting Up a Search Engine: An Example</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#a_case_study_book_store_search" class="t-chapter">A Case Study: Book Store Search</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#topic_modeling" class="t-chapter">Topic Modeling</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#training_a_topic_model_an_example" class="t-chapter">Training a Topic Model: An Example</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#whatapostrophes_nextquestion_mark" class="t-chapter">What’s Next?</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#text_summarization" class="t-chapter">Text Summarization</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#summarization_use_cases" class="t-chapter">Summarization Use Cases</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#setting_up_a_summarizer_an_example" class="t-chapter">Setting Up a Summarizer: An Example</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#practical_advice-id00014" class="t-chapter">Practical Advice</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#recommender_systems_for_textual_data" class="t-chapter">Recommender Systems for Textual Data</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#creating_a_book_recommender_system_an_e" class="t-chapter">Creating a Book Recommender System: An Example</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#practical_advice-id00015" class="t-chapter">Practical Advice</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#machine_translation" class="t-chapter">Machine Translation</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#using_a_machine_translation_api_an_exam" class="t-chapter">Using a Machine Translation API: An Example</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#practical_advice-id00016" class="t-chapter">Practical Advice</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#question_answering_systems" class="t-chapter">Question-Answering Systems</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#developing_a_custom_question_answering" class="t-chapter">Developing a Custom Question-Answering System</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#looking_for_deeper_answers" class="t-chapter">Looking for Deeper Answers</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch07.html"><a href="/library/view/practical-natural-language/9781492054047/ch07.html#wrapping_up-id00081" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/part03.html"><a href="/library/view/practical-natural-language/9781492054047/part03.html#applied" class="t-chapter">III. Applied</a></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#social_media" class="t-chapter">8. Social Media</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#applications-id00002" class="t-chapter">Applications</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#unique_challenges" class="t-chapter">Unique Challenges</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#nlp_for_social_data" class="t-chapter">NLP for Social Data</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#word_cloud" class="t-chapter">Word Cloud</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#tokenizer_for_smtd" class="t-chapter">Tokenizer for SMTD</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#trending_topics" class="t-chapter">Trending Topics</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#understanding_twitter_sentiment" class="t-chapter">Understanding Twitter Sentiment</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#preprocessing_smtd" class="t-chapter">Pre-Processing SMTD</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#text_representation_for_smtd" class="t-chapter">Text Representation for SMTD</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#customer_support_on_social_channels" class="t-chapter">Customer Support on Social Channels</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#memes_and_fake_news" class="t-chapter">Memes and Fake News</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#identifying_memes" class="t-chapter">Identifying Memes</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#fake_news" class="t-chapter">Fake News</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch08.html"><a href="/library/view/practical-natural-language/9781492054047/ch08.html#wrapping_up-id00082" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#e_commerce_and_retail" class="t-chapter">9. E-Commerce and Retail</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#e_commerce_catalog" class="t-chapter">E-Commerce Catalog</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#review_analysi" class="t-chapter">Review Analysis</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#product_search" class="t-chapter">Product Search</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#product_recommendations" class="t-chapter">Product Recommendations</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#search_in_e_commerce" class="t-chapter">Search in E-Commerce</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#building_an_e_commerce_catalog" class="t-chapter">Building an E-Commerce Catalog</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#attribute_extraction" class="t-chapter">Attribute Extraction</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#product_categorization_and_taxonomy" class="t-chapter">Product Categorization and Taxonomy</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#product_enrichment" class="t-chapter">Product Enrichment</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#product_deduplication_and_matching" class="t-chapter">Product Deduplication and Matching</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#review_analys" class="t-chapter">Review Analysis</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#sentiment_analysis" class="t-chapter">Sentiment Analysis</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#aspect_level_sentiment_analysis" class="t-chapter">Aspect-Level Sentiment Analysis</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#connecting_overall_ratings_to_aspects" class="t-chapter">Connecting Overall Ratings to Aspects</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#understanding_aspects" class="t-chapter">Understanding Aspects</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#recommendations_for_e_commerce" class="t-chapter">Recommendations for E-Commerce</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#a_case_study_substitutes_and_complement" class="t-chapter">A Case Study: Substitutes and Complements</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch09.html"><a href="/library/view/practical-natural-language/9781492054047/ch09.html#wrapping_up-id00083" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#healthcarecomma_financecomma_and_law" class="t-chapter">10. Healthcare, Finance, and Law</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#healthcare" class="t-chapter">Healthcare</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#health_and_medical_records" class="t-chapter">Health and Medical Records</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#patient_prioritization_and_billing" class="t-chapter">Patient Prioritization and Billing</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#pharmacovigilance" class="t-chapter">Pharmacovigilance</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#clinical_decision_support_systems" class="t-chapter">Clinical Decision Support Systems</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#health_assistants" class="t-chapter">Health Assistants</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#electronic_health_records" class="t-chapter">Electronic Health Records</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#mental_healthcare_monitoring" class="t-chapter">Mental Healthcare Monitoring</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#medical_information_extraction_and_anal" class="t-chapter">Medical Information Extraction and Analysis</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#finance_and_law" class="t-chapter">Finance and Law</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#nlp_applications_in_finance" class="t-chapter">NLP Applications in Finance</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#nlp_and_the_legal_landscape" class="t-chapter">NLP and the Legal Landscape</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch10.html"><a href="/library/view/practical-natural-language/9781492054047/ch10.html#wrapping_up-id00085" class="t-chapter">Wrapping Up</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/part04.html"><a href="/library/view/practical-natural-language/9781492054047/part04.html#bringing_it_all_together" class="t-chapter">IV. Bringing It All Together</a></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#the_end_to_end_nlp_process" class="t-chapter">11. The End-to-End NLP Process</a><ol><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#revisiting_the_nlp_pipeline_deploying_n" class="t-chapter">Revisiting the NLP Pipeline: Deploying NLP Software</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#an_example_scenario" class="t-chapter">An Example Scenario</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#building_and_maintaining_a_mature_syste" class="t-chapter">Building and Maintaining a Mature System</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#finding_better_features" class="t-chapter">Finding Better Features</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#iterating_existing_models" class="t-chapter">Iterating Existing Models</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#code_and_model_reproducibility" class="t-chapter">Code and Model Reproducibility</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#troubleshooting_and_interpretability" class="t-chapter">Troubleshooting and Interpretability</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#monitoring-id00009" class="t-chapter">Monitoring</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#minimizing_technical_debt" class="t-chapter">Minimizing Technical Debt</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#automating_machine_learning" class="t-chapter">Automating Machine Learning</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#the_data_science_process" class="t-chapter">The Data Science Process</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#the_kdd_process" class="t-chapter">The KDD Process</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#microsoft_team_data_science_process" class="t-chapter">Microsoft Team Data Science Process</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#making_ai_succeed_at_your_organization" class="t-chapter">Making AI Succeed at Your Organization</a><ol><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#team" class="t-chapter">Team</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#right_problem_and_right_expectations" class="t-chapter">Right Problem and Right Expectations</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#data_and_timing" class="t-chapter">Data and Timing</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#a_good_process" class="t-chapter">A Good Process</a></li><li class="toc-level-3 t-toc-level-3 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#other_aspects" class="t-chapter">Other Aspects</a></li></ol></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#peeking_over_the_horizon" class="t-chapter">Peeking over the Horizon</a></li><li class="toc-level-2 t-toc-level-2 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ch11.html"><a href="/library/view/practical-natural-language/9781492054047/ch11.html#final_words" class="t-chapter">Final Words</a></li></ol></li><li class="toc-level-1 t-toc-level-1 js-content-uri" data-content-uri="/api/v1/book/9781492054047/chapter/ix01.html"><a href="/library/view/practical-natural-language/9781492054047/ix01.html#idm45969586111832" class="t-chapter">Index</a></li>
+</ol>
+
+</section>
+
+
+
+
+
+      
+
+
+    
+    
+
+    
+      
+        
+
+
+
+
+    
+    
+      <div id="js-subscribe-nag" class="subscribe-nag clearfix trial-panel t-subscribe-nag">
+        
+        
+
+        
+          <p>You have 1 day left in your trial, Wademe6983. Subscribe today. <a href="/subscribe/" class="ga-active-trial-subscribe-nag">See pricing options.</a></p>
+        
+        
+
+      </div>
+
+    
+    
+
+
+      
+    
+
+    
+
+
+    
+      
+
+<footer class="pagefoot t-pagefoot">
+  <a href="#" class="icon-up" onclick="window.Appcues.track('JumpTop_HeronBook')"><div class="visuallyhidden">Back to top</div></a>
+  <ul class='js-footer-nav'>
+  
+    
+    <li><a href="/u/preferences/">Settings</a></li>
+    
+    <li><a href="/public/support/">Support</a></li>
+    
+    <li><a href="/accounts/logout/">Sign Out</a></li>
+    
+  
+  
+  </ul>
+  <span class="copyright">&#169; 2020 <a href="/" target="_blank">O'Reilly Media, Inc</a>.</span>
+  
+    
+    <a href="https://www.oreilly.com/terms/">Terms of Service</a> 
+     / 
+    
+    <a href="/privacy">Privacy Policy</a> 
+    
+    
+  
+</footer>
+
+    
+
+  </article>
+</div>
+
+ </body>
+</html>
